@@ -1,0 +1,87 @@
+@media only screen and (max-width: 1680px) {
+.interchange {
+border: 0.4em solid black; 
+}
+}
+@media only screen and (max-width: 1600px) {
+.line {
+height: 1.5%;
+}
+.lineEnd {
+height: 4.5%;
+width: 0.75%;
+}
+.horizLineEnd {
+height: 1.4%;
+width: 3%;
+}
+.interchange {
+border: 0.25em solid black;    
+height: 3%;
+width: 1.5%;
+}
+.nonInterchange {
+height: 1.5%;
+width: 0.75%;
+}
+.sideNonInterchange {
+height: 1.5%;
+width: 1%;
+}
+.stnNames {
+font-size: 120%;
+}
+#lineName {
+font-weight: normal;
+font-size: 90%;
+}
+@media only screen and (max-width: 1366px) {
+#lineName {
+font-size: 80%;
+}
+}
+@media only screen and (max-width: 1152px) {
+.line {
+height: 1%;
+}
+.lineEnd {
+height: 3%;
+width: 0.5%;
+}
+.horizLineEnd {
+height: 1.1%;
+width: 2%;
+}
+.interchange {
+border: 0.2em solid black;    
+height: 1.8%;
+width: 1%;
+}
+.nonInterchange {
+height: 1%;
+width: 0.5%;
+}
+.sideNonInterchange {
+height: 1%;
+width: 0.7%;
+}
+.stnNames {
+font-size: 100%;
+}
+#lineName {
+font-size: 70%;
+}
+}
+@media only screen and (max-width: 1024px) {
+#lineName {
+font-size: 55%;
+}
+}
+@media only screen and (max-width: 800px) {
+.stnNames {
+font-size: 80%;
+}
+#lineName {
+font-size: 45%;
+}
+}
