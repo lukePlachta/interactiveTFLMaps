@@ -1,0 +1,40 @@
+@media only screen and (max-width: 1600px) {
+.lineCurve {
+border: 0.75em solid black;
+}
+#lineCurve2 {
+border-top-left-radius: 50px;
+}
+#lineCurve4 {
+border-bottom-left-radius: 50px;
+}
+}
+@media only screen and (max-width: 1152px) {
+.lineCurve {
+border: 0.5em solid black;
+}
+#lineCurve1 {
+border-bottom-right-radius: 50px;
+}
+#lineCurve3 {
+border-top-right-radius: 50px;
+}
+}
+@media only screen and (max-width: 1024px) {
+#lineCurve2 {
+border-top-left-radius: 25px;
+}
+#lineCurve4 {
+border-bottom-left-radius: 25px;
+}
+}
+@media only screen and (max-width: 800px) {
+#lineCurve3 {
+height: 5%; /* as the half of the width */
+top: 35%;
+}
+#lineCurve4 {
+height: 10%; /* as the half of the width */
+top: 41%;
+}
+}
