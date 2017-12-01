@@ -1,0 +1,180 @@
+@media only screen and (max-width: 1680px) {
+#stn1Name {
+left: 23.2%;
+}
+#stn2Name {
+left: 48.2%;
+}
+#stn3Name {
+left: 73%;
+}
+}
+@media only screen and (max-width: 1600px) {
+.interchange {
+top: 61.7%;
+}
+#stn1Name {
+top: 53%;
+left: 23.3%;
+}
+#southeastern1 {
+top: 67%;
+left: 21.8%;
+}
+#southernRail1 {
+top: 70%;
+left: 21.8%;
+}
+#londonUnderground1 {
+top: 73%;
+left: 21.3%;
+}
+#stn2Name {
+top: 53%;
+}
+#gwr1 {
+top: 67%;
+left: 46.8%;
+}
+#southernRail2 {
+top: 76%;
+left: 46.8%;
+}
+#thameslink1 {
+top: 79%;
+left: 46.8%;
+}
+#stn3Name {
+top: 56%;
+}
+#gwr2 {
+top: 67%;
+left: 71.8%;
+}
+#southernRail3 {
+top: 76%;
+left: 71.8%;
+}
+#thameslink2 {
+top: 79%;
+left: 71.8%;
+}
+}
+@media only screen and (max-width: 1440px) {
+#stn1Name {
+left: 23.2%;
+}
+#southeastern1 {
+left: 21.7%;
+}
+#southernRail1 {
+left: 21.7%;
+}
+#londonUnderground1 {
+left: 21.2%;
+}
+#stn2Name {
+left: 48%;
+}
+#stn3Name {
+left: 72.9%;
+}
+}
+@media only screen and (max-width: 1366px) {
+#stn1Name {
+top: 51%;
+left: 23%;
+}
+#stn2Name {
+top: 51%;
+left: 47.8%;
+}
+#stn3Name {
+top: 54%;
+left: 72.7%;
+}
+}
+@media only screen and (max-width: 1152px) {
+.interchange {
+top: 62.1%;
+}
+#stn1Name {
+top: 54%;
+left: 22.8%;
+}
+#southeastern1 {
+top: 66%;
+left: 21.4%;
+}
+#southernRail1 {
+top: 69%;
+left: 21.4%;
+}
+#londonUnderground1 {
+top: 72%;
+left: 20.9%;
+}
+#stn2Name {
+top: 54%;
+left: 47.5%;
+}
+#gwr1 {
+top: 66%;
+left: 46.5%;
+}
+#southernRail2 {
+top: 75%;
+left: 46.5%;
+}
+#thameslink1 {
+top: 78%;
+left: 46.5%;
+}
+#stn3Name {
+top: 57%;
+left: 72.4%;
+}
+#gwr2 {
+top: 66%;
+left: 71.5%;
+}
+#southernRail3 {
+top: 75%;
+left: 71.5%;
+}
+#thameslink2 {
+top: 78%;
+left: 71.5%;
+}
+}
+@media only screen and (max-width: 1024px) {
+#stn1Name {
+top: 53%;
+left: 22.4%;
+}
+#stn2Name {
+top: 53%;
+left: 47.4%;
+}
+#stn3Name {
+top: 56%;
+left: 72.2%;
+}
+#exitLink1 {
+top: 25%;
+}
+}
+@media only screen and (max-width: 800px) {
+.interchange {
+top: 62%;
+}
+#stn1Name {
+top: 52.5%;
+}
+#stn2Name {
+top: 52.5%;
+}
+#stn3Name {
+top: 55.5%;
+}
+}
