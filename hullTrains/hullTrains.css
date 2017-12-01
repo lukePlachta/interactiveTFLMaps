@@ -1,0 +1,146 @@
+.heading {
+background-color: #50c878;
+color: gold;
+}
+.line {
+top: 53%;
+background-color: #50c878;
+left: 15%;
+width: 71%;
+}
+.interchange {
+top: 51.3%;
+}
+.stnNames {
+top: 45%;
+color: gold;
+}
+#interchange1 {
+left: 14.5%;
+}
+#stn1Name {
+left: 14.75%;
+}
+#northernRail1 {
+top: 58%;
+left: 11.9%;
+}
+#transpenine1 {
+top: 61%;
+left: 11.9%;
+}
+#virginTrains1 {
+top: 67%;
+left: 11.9%;
+}
+#interchange2 {
+left: 25%;
+}
+#stn2Name {
+left: 24.3%;
+}
+#northernRail2 {
+top: 58%;
+left: 22.4%;
+}
+#interchange3 {
+left: 35%;
+}
+#stn3Name {
+left: 34%;
+}
+#northernRail3 {
+top: 58%;
+left: 32.4%;
+}
+#interchange4 {
+left: 45%;
+}
+#stn4Name {
+left: 44.8%;
+}
+#northernRail4 {
+top: 58%;
+left: 42.4%;
+}
+#transpenine2 {
+top: 61%;
+left: 42.4%;
+}
+#interchange5 {
+left: 55%;
+}
+#stn5Name {
+left: 53.3%;
+}
+#crosscountry1 {
+top: 58%;
+left: 52.4%;
+}
+#gcr1 {
+top: 61%;
+left: 52.4%;
+}
+#northernRail5 {
+top: 70%;
+left: 52.4%;
+}
+#transpenine3 {
+top: 73%;
+left: 52.4%;
+}
+#virginTrains2 {
+top: 79%;
+left: 52.4%;
+}
+#interchange6 {
+left: 65%;
+}
+#stn6Name {
+left: 64.2%;
+}
+#virginTrains3 {
+top: 58%;
+left: 62.4%;
+}
+#interchange7 {
+left: 75%;
+}
+#stn7Name {
+left: 73.5%;
+}
+#emid1 {
+top: 58%;
+left: 72.4%;
+}
+#virginTrains4 {
+top: 61%;
+left: 72.4%;
+}
+#interchange8 {
+left: 85%;
+}
+#stn8Name {
+top: 42%;
+left: 83%;
+}
+#gcr2 {
+top: 58%;
+left: 82.4%;
+}
+#greatNorthern1 {
+top: 67%;
+left: 82.4%;
+}
+#londonUnderground1 {
+top: 73%;
+left: 81.9%;
+}
+#virginTrains5 {
+top: 82%;
+left: 82.4%;
+}
+#exitLink1 {
+top: 20%;
+left: 1%;
+}
