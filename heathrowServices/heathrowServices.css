@@ -1,0 +1,119 @@
+.heading {
+background: silver;
+color: #f49842;
+}
+.mainRouteStnsTopPosition {
+top: 49.3%;
+}
+.mainRouteStnsTwoLines {
+top: 40%;
+}
+.lineEnd {
+background: silver;
+}
+.stnNames {
+color: #f49842;
+}
+.nonInterchange {
+background: silver;
+}
+#lineEnd1 {
+top: 28%;
+left: 10%;
+}
+#stn1Name {
+top: 19%;
+left: 7.3%;
+}
+#interchange1 {
+top: 70.3%;
+left: 9.5%;
+}
+#stn2Name {
+top: 61%;
+left: 7.6%;
+}
+#crossrail1 {
+top: 77%;
+left: 6.4%;
+}
+#londonUnderground1 {
+top: 86%;
+left: 6.4%;
+}
+#interchange2 {
+left: 30%;
+}
+#stn3Name {
+left: 26.2%;
+}
+#londonUnderground2 {
+top: 55.5%;
+left: 26.9%;
+}
+#interchange3 {
+left: 40%;
+}
+#stn4Name {
+left: 38.3%;
+}
+#crossrail2 {
+top: 55.5%;
+left: 36.9%;
+}
+#gwr1 {
+top: 64.5%;
+left: 37.4%;
+}
+#nonInterchange1 {
+left: 50%;
+}
+#stn5Name {
+top: 43%;
+left: 47.8%;
+}
+#nonInterchange2 {
+left: 60%;
+}
+#stn6Name {
+top: 43%;
+left: 57.9%;
+}
+#nonInterchange3 {
+left: 70%;
+}
+#stn7Name {
+left: 68.5%;
+}
+#interchange4 {
+left: 80%;
+}
+#stn8Name {
+left: 78.4%;
+}
+#londonUnderground3 {
+top: 55.5%;
+left: 76.9%;
+}
+#interchange5 {
+left: 90%;
+}
+#stn9Name {
+left: 88%;
+}
+#crossrail3 {
+top: 55.5%;
+left: 86.9%;
+}
+#gwr2 {
+top: 64.5%;
+left: 87.4%;
+}
+#londonUnderground4 {
+top: 73.5%;
+left: 86.9%;
+}
+#exitLink1 {
+top: 80%;
+left: 55%;
+}

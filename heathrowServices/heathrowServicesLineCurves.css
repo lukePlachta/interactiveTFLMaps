@@ -1,0 +1,44 @@
+.lineCurve {
+position: absolute;
+border: 1.2em solid silver;
+-webkit-box-sizing: 50%;
+-moz-box-sizing: 50%;
+-khtml-border-radius: 50%;
+overflow: auto;
+}
+#lineCurve1 {
+width: 10%;
+height: 10%; /* as the half of the width */
+border-top-right-radius: 100px;
+border-left: 0;
+border-bottom: 0;
+top: 30%;
+left: 10%;
+}
+#lineCurve2 {
+width: 70%;
+height: 10%; /* as the half of the width */
+border-bottom-left-radius: 100px;
+border-top: 0;
+border-right: 0;
+top: 41%;
+left: 20%;
+}
+#lineCurve3 {
+width: 10%;
+height: 10%; /* as the half of the width */
+border-top-left-radius: 100px;
+border-bottom: 0;
+border-right: 0;
+top: 51%;
+left: 20%;
+}
+#lineCurve4 {
+width: 10%;
+height: 10%; /* as the half of the width */
+border-bottom-right-radius: 100px;
+border-top: 0;
+border-left: 0;
+top: 62%;
+left: 10%;
+}
