@@ -1,0 +1,77 @@
+@media only screen and (max-width: 1680px) {
+#lineCurve3 {
+left: 167.4%;
+}
+#lineCurve6 {
+left: 207.1%;
+}
+#lineCurve7 {
+width: 10%;
+top: 55.9%;
+left: 248%;
+}
+}
+@media only screen and (max-width: 1600px) {
+.lineCurve {
+border: 0.75em solid limegreen;
+}
+#lineCurve2 {
+height: 11%; /* as the half of the width */
+top: 71.5%;
+}
+#lineCurve3 {
+height: 11%; /* as the half of the width */
+top: 71.5%;
+left: 167%;
+}
+#lineCurve4 {
+height: 9%; /* as the half of the width */
+top: 93.5%;
+}
+#lineCurve6 {
+left: 207%;
+}
+}
+@media only screen and (max-width: 1440px) {
+#lineCurve3 {
+left: 167.1%;
+border-bottom-left-radius: 50px;
+}
+#lineCurve7 {
+width: 11%;
+left: 247%;
+}
+}
+@media only screen and (max-width: 1366px) {
+#lineCurve3 {
+left: 167.15%;
+}
+}
+@media only screen and (max-width: 1280px) {
+#lineCurve3 {
+left: 167.2%;
+}
+}
+@media only screen and (max-width: 1152px) {
+.lineCurve {
+border: 0.5em solid limegreen;
+}
+#lineCurve2 {
+border-bottom-right-radius: 50px;
+}
+#lineCurve3 {
+left: 167%;
+}
+#lineCurve6 {
+height: 10.5%; /* as the half of the width */
+width: 99.5%;
+}
+#lineCurve8 {
+height: 10.5%; /* as the half of the width */
+}
+}
+@media only screen and (max-width: 800px) {
+#lineCurve3 {
+left: 167.3%;
+}
+}
