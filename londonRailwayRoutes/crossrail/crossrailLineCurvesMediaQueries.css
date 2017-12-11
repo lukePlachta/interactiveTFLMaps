@@ -1,0 +1,53 @@
+@media only screen and (max-width: 1680px) {
+#lineCurve2 {
+width: 19.5%;
+left: 70.5%;
+}
+#lineCurve4 {
+width: 39.5%;
+}
+}
+@media only screen and (max-width: 1600px) {
+.lineCurve {
+border: 0.75em solid purple;
+}
+#lineCurve2 {
+height: 19%; /* as the half of the width */
+top: 56%;
+}
+#lineCurve3 {
+width: 10%;
+left: 200%;
+}
+}
+@media only screen and (max-width: 1280px) {
+#lineCurve4 {
+border-bottom-left-radius: 50px;
+}
+}
+@media only screen and (max-width: 1152px) {
+.lineCurve {
+border: 0.5em solid purple;
+}
+#lineCurve2 {
+border-bottom-right-radius: 50px;
+width: 19.55%;
+}
+#lineCurve3 {
+border-top-right-radius: 50px;
+}
+}
+@media only screen and (max-width: 1024px) {
+#lineCurve1 {
+border-top-left-radius: 50px;
+}
+#lineCurve2 {
+width: 19.5%;
+}
+}
+
+@media only screen and (max-width: 800px) {
+.lineCurve {
+border: 0.3em solid purple;
+}
+}
