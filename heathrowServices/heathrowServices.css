@@ -35,11 +35,11 @@ left: 7.6%;
 }
 #crossrail1 {
 top: 77%;
-left: 6.4%;
+left: 6.6%;
 }
 #londonUnderground1 {
 top: 86%;
-left: 6.4%;
+left: 6.6%;
 }
 #interchange2 {
 left: 30%;
@@ -47,9 +47,13 @@ left: 30%;
 #stn3Name {
 left: 26.2%;
 }
-#londonUnderground2 {
+#crossrail2 {
 top: 55.5%;
-left: 26.9%;
+left: 27.1%;
+}
+#londonUnderground2 {
+top: 64.5%;
+left: 27.1%;
 }
 #interchange3 {
 left: 40%;
@@ -57,13 +61,13 @@ left: 40%;
 #stn4Name {
 left: 38.3%;
 }
-#crossrail2 {
+#crossrail3 {
 top: 55.5%;
-left: 36.9%;
+left: 37.1%;
 }
 #gwr1 {
 top: 64.5%;
-left: 37.4%;
+left: 37.6%;
 }
 #nonInterchange1 {
 left: 50%;
@@ -79,13 +83,17 @@ left: 60%;
 top: 43%;
 left: 57.9%;
 }
-#nonInterchange3 {
+#interchange4 {
 left: 70%;
 }
 #stn7Name {
-left: 68.5%;
+left: 69.6%;
 }
-#interchange4 {
+#gwr3 {
+top: 55.5%;
+left: 67.6%;
+}
+#interchange5 {
 left: 80%;
 }
 #stn8Name {
@@ -93,25 +101,25 @@ left: 78.4%;
 }
 #londonUnderground3 {
 top: 55.5%;
-left: 76.9%;
+left: 77.1%;
 }
-#interchange5 {
+#interchange6 {
 left: 90%;
 }
 #stn9Name {
 left: 88%;
 }
-#crossrail3 {
+#crossrail4 {
 top: 55.5%;
-left: 86.9%;
+left: 87.1%;
 }
-#gwr2 {
+#gwr4 {
 top: 64.5%;
-left: 87.4%;
+left: 87.6%;
 }
 #londonUnderground4 {
 top: 73.5%;
-left: 86.9%;
+left: 87.1%;
 }
 #exitLink1 {
 top: 80%;
