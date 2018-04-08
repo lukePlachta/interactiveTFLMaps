@@ -1,0 +1,651 @@
+.heading {
+background-color: darkgreen;
+color: white;
+width: 490%;
+}
+.lineEnd {
+background-color: darkgreen;
+}
+.nonInterchange {
+background-color: darkgreen;
+}
+.upperPageStnsTopPosition {
+top: 33.3%;
+}
+.upperPageStnsTwoLines {
+top: 24%;
+}
+.middlePageStnsTopPosition {
+top: 53.3%;
+}
+.middlePageStnsOneLine {
+top: 47%;
+}
+.middlePageStnsTwoLines {
+top: 44%;
+}
+.middlePageStnsNrLogo {
+top: 41%;
+}
+.lowerPageStnsTopPosition {
+top: 93.3%;
+}
+.lowerPageStnsTwoLines {
+top: 84%;
+}
+.edgwareRoadStnsTopPosition {
+top: 25.3%;
+}
+#interchange1 {
+left: 4.5%;
+}
+#nrLogo1 {
+top: 21%;
+left: 4.8%;
+}
+#stn1Name {
+left: 3.1%;
+}
+#crossrail1 {
+top: 40%;
+left: 1.6%;
+}
+#central1 {
+top: 49%;
+left: 2.1%;
+}
+#interchange2 {
+left: 15%;
+}
+#stn2Name {
+left: 13.8%;
+}
+#piccadilly1 {
+top: 40%;
+left: 12.6%;
+}
+#interchange3 {
+left: 25%;
+}
+#stn3Name {
+left: 24.8%;
+}
+#piccadilly2 {
+top: 40%;
+left: 22.6%;
+}
+#nonInterchange1 {
+left: 35%;
+}
+#stn4Name {
+left: 32.9%;
+}
+#interchange4 {
+top: 63.3%;
+left: 30%;
+}
+#stn5Name {
+top: 57%;
+left: 27.4%;
+}
+#londonOverground1 {
+top: 70%;
+left: 27.1%;
+}
+#nonInterchange2 {
+top: 63.3%;
+left: 20%;
+}
+#stn6Name {
+top: 54%;
+left: 18.1%;
+}
+#interchange5 {
+top: 63.3%;
+left: 9.5%;
+}
+#nrLogo2 {
+top: 51%;
+left: 9.8%;
+}
+#stn7Name {
+top: 57%;
+left: 7.9%;
+}
+#londonOverground2 {
+top: 70%;
+left: 6.6%;
+}
+#interchange6 {
+left: 50%;
+}
+#stn8Name {
+left: 48.9%;
+}
+#piccadilly3 {
+top: 40%;
+left: 47.6%;
+}
+#nonInterchange3 {
+left: 60%;
+}
+#stn9Name {
+left: 57.8%;
+}
+#nonInterchange4 {
+left: 70%;
+}
+#stn10Name {
+left: 66.8%;
+}
+#interchange7 {
+left: 80%;
+}
+#stn11Name {
+top: 27%;
+left: 77.3%;
+}
+#circle1 {
+top: 40%;
+left: 77.6%;
+}
+#hsmith1 {
+top: 43%;
+left: 77.6%;
+}
+#piccadilly4 {
+top: 49%;
+left: 77.6%;
+}
+#interchange8 {
+left: 90%;
+}
+#stn12Name {
+left: 89.4%;
+}
+#piccadilly5 {
+top: 40%;
+left: 87.6%;
+}
+#nonInterchange5 {
+left: 100%;
+}
+#stn13Name {
+left: 97%;
+}
+#interchange9 {
+left: 100%;
+}
+#nrLogo3 {
+top: 81%;
+left: 100.3%;
+}
+#stn14Name {
+left: 98.5%;
+}
+#londonOverground3 {
+top: 100%;
+left: 97.1%;
+}
+#nonInterchange6 {
+left: 90%;
+}
+#stn15Name {
+left: 87.6%;
+}
+#nonInterchange7 {
+left: 80%;
+}
+#stn16Name {
+left: 78.1%;
+}
+#nonInterchange8 {
+left: 70%;
+}
+#stn17Name {
+left: 68.4%;
+}
+#nonInterchange9 {
+left: 60%;
+}
+#stn18Name {
+left: 58.4%;
+}
+#nonInterchange10 {
+left: 50%;
+}
+#stn19Name {
+top: 87%;
+left: 47.1%;
+}
+#nonInterchange11 {
+left: 40%;
+}
+#stn20Name {
+left: 37.1%;
+}
+#interchange10 {
+left: 29.5%;
+}
+#nrLogo4 {
+top: 81%;
+left: 29.8%;
+}
+#stn21Name {
+top: 87%;
+left: 27.5%;
+}
+#tramlink1 {
+top: 100%;
+left: 26.6%;
+}
+#interchange11 {
+left: 117.5%;
+}
+#nrLogo5 {
+top: 21%;
+left: 117.8%;
+}
+#stn22Name {
+left: 115.5%;
+}
+#londonOverground4 {
+top: 40%;
+left: 114.6%;
+}
+#interchange12 {
+left: 135%;
+}
+#stn23Name {
+left: 134.8%;
+}
+#piccadilly6 {
+top: 60%;
+left: 132.6%;
+}
+#interchange13 {
+left: 155%;
+}
+#stn24Name {
+top: 16%;
+left: 153.1%;
+}
+#circle2 {
+top: 32%;
+left: 152.6%;
+}
+#interchange14 {
+left: 165%;
+}
+#stn25Name {
+top: 16%;
+left: 162.4%;
+width: 8%;
+}
+#central2 {
+top: 32%;
+left: 162.6%;
+}
+#nonInterchange12 {
+left: 175%;
+}
+#stn26Name {
+top: 19%;
+left: 172.4%;
+}
+#interchange15 {
+left: 185%;
+}
+#nrLogo6 {
+top: 17%;
+left: 185.3%;
+}
+#stn27Name {
+top: 19%;
+left: 183.1%;
+}
+#bakerloo1 {
+top: 32%;
+left: 182.6%;
+}
+#circle3 {
+top: 35%;
+left: 182.6%;
+}
+#crossrail2 {
+top: 38%;
+left: 182.1%;
+}
+#hsmith2 {
+top: 47%;
+left: 182.6%;
+}
+#interchange16 {
+left: 195%;
+}
+#stn28Name {
+top: 16%;
+left: 193.9%;
+}
+#circle4 {
+top: 32%;
+left: 192.6%;
+}
+#circle5 {
+top: 35%;
+left: 192.6%;
+}
+#hsmith3 {
+top: 41%;
+left: 192.6%;
+}
+#interchange17 {
+left: 155%;
+}
+#stn29Name {
+left: 153.3%;
+}
+#circle6 {
+top: 60%;
+left: 152.6%;
+}
+#interchange18 {
+left: 165%;
+}
+#stn30Name {
+left: 163.3%;
+}
+#piccadilly7 {
+top: 60%;
+left: 162.6%;
+}
+#nonInterchange13 {
+left: 175%;
+}
+#stn31Name {
+left: 173.4%;
+}
+#interchange19 {
+left: 205%;
+}
+#nrLogo7 {
+left: 205.3%;
+}
+#stn32Name {
+left: 204.1%;
+}
+#victoria1 {
+top: 60%;
+left: 202.6%;
+}
+#nonInterchange14 {
+left: 215%;
+}
+#stn33Name {
+width: 8%;
+left: 211.4%;
+}
+#interchange20 {
+left: 225%;
+}
+#stn34Name {
+left: 222.7%;
+}
+#jubilee1 {
+top: 60%;
+left: 222.6%;
+}
+#interchange21 {
+left: 235%;
+}
+#nrLogo8 {
+left: 235.3%;
+}
+#stn35Name {
+left: 232.6%;
+}
+#bakerloo2 {
+top: 60%;
+left: 232.6%;
+}
+#northern1 {
+top: 63%;
+left: 232.6%;
+}
+#nonInterchange15 {
+left: 245%;
+}
+#stn36Name {
+left: 243.2%;
+}
+#interchange22 {
+left: 255%;
+}
+#nrLogo9 {
+left: 255.3%;
+}
+#stn37Name {
+left: 253.4%;
+}
+#nonInterchange16 {
+left: 265%;
+}
+#stn38Name {
+left: 262.9%;
+}
+#interchange23 {
+left: 275%;
+}
+#nrLogo10 {
+left: 275.3%;
+}
+#stn39Name {
+left: 274.2%;
+}
+#interchange24 {
+left: 285%;
+}
+#stn40Name {
+left: 283.1%;
+}
+#central3 {
+top: 60%;
+left: 282.6%;
+}
+#dlr1 {
+top: 63%;
+left: 282.1%;
+}
+#northern2 {
+top: 72%;
+left: 282.6%;
+}
+#wloo1 {
+top: 75%;
+left: 282.6%;
+}
+#interchange25 {
+left: 295%;
+}
+#stn41Name {
+left: 294.7%;
+}
+#circle7 {
+top: 60%;
+left: 292.6%;
+}
+#interchange26 {
+left: 305%;
+}
+#stn42Name {
+left: 304.1%;
+}
+#hsmith4 {
+top: 60%;
+left: 302.6%;
+}
+#interchange27 {
+left: 315%;
+}
+#stn43Name {
+left: 312.5%;
+}
+#londonOverground5 {
+top: 60%;
+left: 312.1%;
+}
+#nonInterchange17 {
+left: 325%;
+}
+#stn44Name {
+left: 323%;
+}
+#interchange28 {
+left: 335%;
+}
+#stn45Name {
+left: 335.2%;
+}
+#central4 {
+top: 60%;
+left: 332.6%;
+}
+#interchange29 {
+left: 345%;
+}
+#stn46Name {
+left: 344.9%;
+}
+#dlr2 {
+top: 60%;
+left: 342.1%;
+}
+#nonInterchange18 {
+left: 355%;
+}
+#stn47Name {
+left: 353.1%;
+}
+#interchange30 {
+left: 365%;
+}
+#nrLogo11 {
+left: 365.3%;
+}
+#stn48Name {
+left: 364.9%;
+}
+#dlr3 {
+top: 60%;
+left: 362.1%;
+}
+#jubilee2 {
+top: 69%;
+left: 362.6%;
+}
+#nonInterchange19 {
+left: 375%;
+}
+#stn49Name {
+left: 373%;
+}
+#nonInterchange20 {
+left: 385%;
+}
+#stn50Name {
+left: 383.6%;
+}
+#nonInterchange21 {
+left: 395%;
+}
+#stn51Name {
+left: 394%;
+}
+#interchange31 {
+left: 405%;
+}
+#nrLogo12 {
+left: 405.3%;
+}
+#stn52Name {
+left: 404.3%;
+}
+#hsmith5 {
+top: 60%;
+left: 402.6%;
+}
+#londonOverground6 {
+top: 66%;
+left: 402.1%;
+}
+#nonInterchange22 {
+left: 415%;
+}
+#stn53Name {
+left: 413.4%;
+}
+#nonInterchange23 {
+left: 425%;
+}
+#stn54Name {
+left: 422%;
+}
+#nonInterchange24 {
+left: 435%;
+}
+#stn55Name {
+left: 432.1%;
+}
+#nonInterchange25 {
+left: 445%;
+}
+#stn56Name {
+left: 442.2%;
+}
+#nonInterchange26 {
+left: 455%;
+}
+#stn57Name {
+left: 454.2%;
+}
+#nonInterchange27 {
+left: 465%;
+}
+#stn58Name {
+left: 461.9%;
+}
+#nonInterchange28 {
+left: 475%;
+}
+#stn59Name {
+left: 472.4%;
+}
+#interchange32 {
+left: 485%;
+}
+#nrLogo13 {
+left: 485.3%;
+}
+#stn60Name {
+left: 483.1%;
+}
+#londonOverground7 {
+top: 60%;
+left: 482.1%;
+}
+#exitLink1 {
+top: 55%;
+left: 55%;
+}
+#exitLink2 {
+top: 75%;
+left: 180%;
+}
+#exitLink3 {
+top: 22%;
+left: 300%;
+}
+#exitLink4 {
+top: 22%;
+left: 425%;
+}

@@ -1,0 +1,634 @@
+<html>
+	<head>
+		<title>District Line</title>
+		<link rel="stylesheet" type="text/css" href="../../commonStyleRules.css">
+		<link rel="stylesheet" type="text/css" href="../../commonStyleRulesMediaQueries.css">
+		<link rel="stylesheet" type="text/css" href="districtLine.css">
+		<link rel="stylesheet" type="text/css" href="districtLineLineCurves.css">
+		<link rel="stylesheet" type="text/css" href="districtLineMediaQueries.css">
+		<link rel="stylesheet" type="text/css" href="districtLineLineCurvesMediaQueries.css">
+		<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+	</head>
+	<body>
+		<div id='wrapper'>
+			<div id='container'>
+				<section class='heading'>
+					<h1>District Line</h1>
+				</section>
+				<section class='map'>
+					<div id='ealingBroadwayRoute'>
+						<div class='lineCurve' id='lineCurve1'>
+						</div>
+						<div id='stn1'>
+							<div class='interchange upperPageStnsTopPosition' id='interchange1'>
+							</div>
+							<img class='nrLogo upperPageStnsNrLogo' id='nrLogo1' src="../../images/nationalRailLogo.jpg" alt="NR Logo">
+							<div class='stnNames upperPageStnsTwoLines' id='stn1Name'>
+								<p>Ealing<br>Broadway</p>
+							</div>
+							<a href="../../crossrail/crossrail.html#londonUnderground5">
+ 	 							<img class='londonConnections' id='crossrail1' src="../../images/crossrail.jpg" alt="Crossrail">
+							</a>
+							<a class='field centralLine' id='central1' href="../centralLine/centralLine.html">
+								<p id='lineName'>Central</p>
+							</a>
+						</div>
+						<div id='stn2'>
+							<div class='interchange upperPageStnsTopPosition' id='interchange2'>
+							</div>
+							<div class='stnNames upperPageStnsTwoLines' id='stn2Name'>
+								<p>Ealing<br>Common</p>
+							</div>
+							<a class='field piccadillyLine' id='piccadilly1' href="../piccadillyLine/piccadillyLine.html#circle2">
+								<p id='lineName'>Piccadilly</p>
+							</a>
+						</div>
+						<div id='stn3'>
+							<div class='interchange upperPageStnsTopPosition' id='interchange3'>
+							</div>
+							<div class='stnNames upperPageStnsTwoLines' id='stn3Name'>
+								<p>Acton<br>Town</p>
+							</div>
+							<a class='field piccadillyLine' id='piccadilly2' href="../piccadillyLine/piccadillyLine.html#interchange12">
+								<p id='lineName'>Piccadilly</p>
+							</a>
+						</div>
+						<div id='stn4'>
+							<div class='nonInterchange upperPageStnsTopPosition' id='nonInterchange1'>
+							</div>
+							<div class='stnNames upperPageStnsTwoLines' id='stn4Name'>
+								<p>Chiswick<br>Park</p>
+							</div>
+						</div>
+						<div id='richmondBranch'>
+							<div class='lineCurve' id='lineCurve2'>
+							</div>
+							<div class='lineCurve' id='lineCurve3'>
+							</div>
+							<div id='stn5'>
+								<div class='interchange' id='interchange4'>
+								</div>
+								<div class='stnNames' id='stn5Name'>
+									<p>Gunnersbury</p>
+								</div>
+								<a href="../../londonOverground/londonOverground.html#stn19Name">
+ 	 								<img class='londonConnections' id='londonOverground1' src="../../images/londonOverground.jpg" alt="London Overground">
+								</a>
+							</div>
+							<div id='stn6'>
+								<div class='nonInterchange' id='nonInterchange2'>
+								</div>
+								<div class='stnNames' id='stn6Name'>
+									<p>Kew<br>Gardens</p>
+								</div>
+							</div>
+							<div id='stn7'>
+								<div class='interchange' id='interchange5'>
+								</div>
+								<img class='nrLogo' id='nrLogo2' src="../../images/nationalRailLogo.jpg" alt="NR Logo">
+								<div class='stnNames' id='stn7Name'>
+									<p>Richmond</p>
+								</div>
+								<a href="../../londonOverground/londonOverground.html#linkDot2">
+ 	 								<img class='londonConnections' id='londonOverground2' src="../../images/londonOverground.jpg" alt="London Overground">
+								</a>
+							</div>
+						</div>
+						<div id='stn8'>
+							<div class='interchange upperPageStnsTopPosition' id='interchange6'>
+							</div>
+							<div class='stnNames upperPageStnsTwoLines' id='stn8Name'>
+								<p>Turnham<br>Green</p>
+							</div>
+							<a class='field piccadillyLine' id='piccadilly3' href="../piccadillyLine/piccadillyLine.html#interchange13">
+								<p id='lineName'>Piccadilly</p>
+							</a>
+						</div>
+						<div id='stn9'>
+							<div class='nonInterchange upperPageStnsTopPosition' id='nonInterchange3'>
+							</div>
+							<div class='stnNames upperPageStnsTwoLines' id='stn9Name'>
+								<p>Stamford<br>Brook</p>
+							</div>
+						</div>
+						<div id='stn10'>
+							<div class='nonInterchange upperPageStnsTopPosition' id='nonInterchange4'>
+							</div>
+							<div class='stnNames upperPageStnsTwoLines' id='stn10Name'>
+								<p>Ravenscourt<br>Park</p>
+							</div>
+						</div>
+						<div id='stn11'>
+							<div class='interchange upperPageStnsTopPosition' id='interchange7'>
+							</div>
+							<div class='stnNames upperPageStnsOneLine' id='stn11Name'>
+								<p>Hammersmith</p>
+							</div>
+							<a class='field circleLine' id='circle1' href="../circleLine/circleLine.html">
+								<p id='lineName'>Circle</p>
+							</a>
+							<a class='field doubleField hsmithLine' id='hsmith1' href="../hammersmithAndCityLine/hammersmithAndCityLine.html">
+								<p id='lineName'>Hammersmith<br>& City</p>
+							</a>
+							<a class='field piccadillyLine' id='piccadilly4' href="../piccadillyLine/piccadillyLine.html#interchange13">
+								<p id='lineName'>Piccadilly</p>
+							</a>
+						</div>
+						<div id='stn12'>
+							<div class='interchange upperPageStnsTopPosition' id='interchange8'>
+							</div>
+							<div class='stnNames upperPageStnsTwoLines' id='stn12Name'>
+								<p>Barons<br>Court</p>
+							</div>
+							<a class='field piccadillyLine' id='piccadilly5' href="../piccadillyLine/piccadillyLine.html#interchange13">
+								<p id='lineName'>Piccadilly</p>
+							</a>
+						</div>
+						<div id='stn13'>
+							<div class='nonInterchange upperPageStnsTopPosition' id='nonInterchange5'>
+							</div>
+							<div class='stnNames upperPageStnsTwoLines' id='stn13Name'>
+								<p>West<br>Kensington</p>
+							</div>
+						</div>
+					</div>
+					<div id='earlsCourtToUpminster'>
+						<div class='lineCurve' id='lineCurve4'>
+						</div>
+					</div>
+					<div id='wimbledonBranch'>
+						<div class='lineCurve' id='lineCurve5'>
+						</div>
+						<div class='lineCurve' id='lineCurve6'>
+						</div>
+						<div id='stn14'>
+							<div class='interchange lowerPageStnsTopPosition' id='interchange9'>
+							</div>
+							<img class='nrLogo' id='nrLogo3' src="../../images/nationalRailLogo.jpg" alt="NR Logo">
+							<div class='stnNames lowerPageStnsTwoLines' id='stn14Name'>
+								<p>West<br>Brompton</p>
+							</div>
+							<a href="../../londonOverground/londonOverground.html#interchange11">
+ 	 							<img class='londonConnections' id='londonOverground3' src="../../images/londonOverground.jpg" alt="London Overground">
+							</a>
+						</div>
+						<div id='stn15'>
+							<div class='nonInterchange lowerPageStnsTopPosition' id='nonInterchange6'>
+							</div>
+							<div class='stnNames lowerPageStnsTwoLines' id='stn15Name'>
+								<p>Fulham<br>Broadway</p>
+							</div>
+						</div>
+						<div id='stn16'>
+							<div class='nonInterchange lowerPageStnsTopPosition' id='nonInterchange7'>
+							</div>
+							<div class='stnNames lowerPageStnsTwoLines' id='stn16Name'>
+								<p>Parsons<br>Green</p>
+							</div>
+						</div>
+						<div id='stn17'>
+							<div class='nonInterchange lowerPageStnsTopPosition' id='nonInterchange8'>
+							</div>
+							<div class='stnNames lowerPageStnsTwoLines' id='stn17Name'>
+								<p>Putney<br>Bridge</p>
+							</div>
+						</div>
+						<div id='stn18'>
+							<div class='nonInterchange lowerPageStnsTopPosition' id='nonInterchange9'>
+							</div>
+							<div class='stnNames lowerPageStnsTwoLines' id='stn18Name'>
+								<p>East<br>Putney</p>
+							</div>
+						</div>
+						<div id='stn19'>
+							<div class='nonInterchange lowerPageStnsTopPosition' id='nonInterchange10'>
+							</div>
+							<div class='stnNames' id='stn19Name'>
+								<p>Southfields</p>
+							</div>
+						</div>
+						<div id='stn20'>
+							<div class='nonInterchange lowerPageStnsTopPosition' id='nonInterchange11'>
+							</div>
+							<div class='stnNames lowerPageStnsTwoLines' id='stn20Name'>
+								<p>South<br>Wimbledon</p>
+							</div>
+						</div>
+						<div id='stn21'>
+							<div class='interchange lowerPageStnsTopPosition' id='interchange10'>
+							</div>
+							<img class='nrLogo' id='nrLogo4' src="../../images/nationalRailLogo.jpg" alt="NR Logo">
+							<div class='stnNames' id='stn21Name'>
+								<p>Wimbledon</p>
+							</div>
+							<a href="../../tramlink/tramlink.html">
+ 	 							<img class='londonConnections' id='tramlink1' src="../../images/southLondonTramlink.jpg" alt="Tramlink">
+							</a>
+						</div>
+					</div>
+					<div id='earlsCourtToUpminster'>
+						<div id='kensingtonOlympiaBranch'>
+							<div class='lineCurve' id='lineCurve7'>
+							</div>
+							<div class='lineCurve' id='lineCurve8'>
+							</div>
+							<div id='stn22'>
+								<div class='interchange upperPageStnsTopPosition' id='interchange11'>
+								</div>
+								<img class='nrLogo' id='nrLogo5' src="../../images/nationalRailLogo.jpg" alt="NR Logo">
+								<div class='stnNames upperPageStnsTwoLines' id='stn22Name'>
+									<p>Kensington<br>Olympia</p>
+								</div>
+								<a href="../../londonOverground/londonOverground.html#interchange11">
+ 	 								<img class='londonConnections' id='londonOverground4' src="../../images/londonOverground.jpg" alt="London Overground">
+								</a>
+							</div>
+						</div>
+						<div id='stn23'>
+							<div class='interchange middlePageStnsTopPosition' id='interchange12'>
+							</div>
+							<div class='stnNames middlePageStnsTwoLines' id='stn23Name'>
+								<p>Earls<br>Court</p>
+							</div>
+							<a class='field piccadillyLine' id='piccadilly6' href="../piccadillyLine/piccadillyLine.html#interchange13">
+								<p id='lineName'>Piccadilly</p>
+							</a>
+						</div>
+						<div id='edgwareRoadRoute'>
+							<div class='lineCurve' id='lineCurve9'>
+							</div>
+							<div class='lineCurve' id='lineCurve10'>
+							</div>
+							<div id='stn24'>
+								<div class='interchange edgwareRoadStnsTopPosition' id='interchange13'>
+								</div>
+								<div class='stnNames' id='stn24Name'>
+									<p>High Street<br>Kensington</p>
+								</div>
+								<a class='field circleLine' id='circle2' href="../circleLine/circleLine.html#exitLink4">
+									<p id='lineName'>Circle</p>
+								</a>
+							</div>
+							<div id='stn25'>
+								<div class='interchange edgwareRoadStnsTopPosition' id='interchange14'>
+								</div>
+								<div class='stnNames' id='stn25Name'>
+									<p>Notting<br>Hill Gate</p>
+								</div>
+								<a class='field centralLine' id='central2' href="../centralLine/centralLine.html#interchange10">
+									<p id='lineName'>Central</p>
+								</a>
+							</div>
+							<div id='stn26'>
+								<div class='nonInterchange edgwareRoadStnsTopPosition' id='nonInterchange12'>
+								</div>
+								<div class='stnNames' id='stn26Name'>
+									<p>Bayswater</p>
+								</div>
+							</div>
+							<div id='stn27'>
+								<div class='interchange edgwareRoadStnsTopPosition' id='interchange15'>
+								</div>
+								<img class='nrLogo' id='nrLogo6' src="../../images/nationalRailLogo.jpg" alt="NR Logo">
+								<div class='stnNames' id='stn27Name'>
+									<p>Paddington</p>
+								</div>
+								<a class='field bakerlooLine' id='bakerloo1' href="../bakerlooLine/bakerlooLine.html#interchange8">
+									<p id='lineName'>Bakerloo</p>
+								</a>
+								<a class='field circleLine' id='circle3' href="../circleLine/circleLine.html#nrLogo3">
+									<p id='lineName'>Circle</p>
+								</a>
+								<a href="../../crossrail/crossrail.html#interchange12">
+ 	 								<img class='londonConnections' id='crossrail2' src="../../images/crossrail.jpg" alt="Crossrail">
+								</a>
+								<a class='field doubleField hsmithLine' id='hsmith2' href="../hammersmithAndCityLine/hammersmithAndCityLine.html#nrLogo3">
+									<p id='lineName'>Hammersmith<br>& City</p>
+								</a>
+							</div>
+							<div id='stn28'>
+								<div class='interchange edgwareRoadStnsTopPosition' id='interchange16'>
+								</div>
+								<div class='stnNames' id='stn28Name'>
+									<p>Edgware Road</p>
+								</div>
+								<a class='field circleLine' id='circle4' href="../circleLine/circleLine.html#exitLink4">
+									<p id='lineName'>Circle</p>
+								</a>
+								<a class='field doubleField circleLine' id='circle5' href="../circleLine/circleLine.html#nrLogo4">
+									<p id='lineName'>Circle<br>(other route)</p>
+								</a>
+								<a class='field doubleField hsmithLine' id='hsmith3' href="../hammersmithAndCityLine/hammersmithAndCityLine.html#nrLogo4">
+									<p id='lineName'>Hammersmith<br>& City</p>
+								</a>
+							</div>
+						</div>
+						<div id='stn29'>
+							<div class='interchange middlePageStnsTopPosition' id='interchange17'>
+							</div>
+							<div class='stnNames middlePageStnsTwoLines' id='stn29Name'>
+								<p>Gloucester<br>Road</p>
+							</div>
+							<a class='field circleLine' id='circle6' href="../circleLine/circleLine.html#exitLink4">
+								<p id='lineName'>Circle</p>
+							</a>
+						</div>
+						<div id='stn30'>
+							<div class='interchange middlePageStnsTopPosition' id='interchange18'>
+							</div>
+							<div class='stnNames middlePageStnsTwoLines' id='stn30Name'>
+								<p>South<br>Kensington</p>
+							</div>
+							<a class='field piccadillyLine' id='piccadilly7' href="../piccadillyLine/piccadillyLine.html#interchange16">
+								<p id='lineName'>Piccadilly</p>
+							</a>
+						</div>
+						<div id='stn31'>
+							<div class='nonInterchange middlePageStnsTopPosition' id='nonInterchange13'>
+							</div>
+							<div class='stnNames middlePageStnsTwoLines' id='stn31Name'>
+								<p>Sloan<br>Square</p>
+							</div>
+						</div>
+						<div id='stn32'>
+							<div class='interchange middlePageStnsTopPosition' id='interchange19'>
+							</div>
+							<img class='nrLogo middlePageStnsNrLogo' id='nrLogo7' src="../../images/nationalRailLogo.jpg" alt="NR Logo">
+							<div class='stnNames middlePageStnsOneLine' id='stn32Name'>
+								<p>Victoria</p>
+							</div>
+							<a class='field victoriaLine' id='victoria1' href="../victoriaLine/victoriaLine.html#londonOverground6">
+								<p id='lineName'>Victoria</p>
+							</a>
+						</div>
+						<div id='stn33'>
+							<div class='nonInterchange middlePageStnsTopPosition' id='nonInterchange14'>
+							</div>
+							<div class='stnNames middlePageStnsTwoLines' id='stn33Name'>
+								<p>St James's<br>Park</p>
+							</div>
+						</div>
+						<div id='stn34'>
+							<div class='interchange middlePageStnsTopPosition' id='interchange20'>
+							</div>
+							<div class='stnNames middlePageStnsOneLine' id='stn34Name'>
+								<p>Westminster</p>
+							</div>
+							<a class='field jubileeLine' id='jubilee1' href="../jubileeLine/jubileeLine.html#interchange10">
+								<p id='lineName'>Jubilee</p>
+							</a>
+						</div>
+						<div id='stn35'>
+							<div class='interchange middlePageStnsTopPosition' id='interchange21'>
+							</div>
+							<img class='nrLogo middlePageStnsNrLogo' id='nrLogo8' src="../../images/nationalRailLogo.jpg" alt="NR Logo">
+							<div class='stnNames middlePageStnsOneLine' id='stn35Name'>
+								<p>Embankment</p>
+							</div>
+							<a class='field bakerlooLine' id='bakerloo2' href="../bakerlooLine/bakerlooLine.html#northernLine3">
+								<p id='lineName'>Bakerloo</p>
+							</a>
+							<a class='field northernLine' id='northern1' href="../northernLine/northernLine.html#stn40Name">
+								<p id='lineName'>Northern</p>
+							</a>
+						</div>
+						<div id='stn36'>
+							<div class='nonInterchange middlePageStnsTopPosition' id='nonInterchange15'>
+							</div>
+							<div class='stnNames middlePageStnsOneLine' id='stn36Name'>
+								<p>Temple</p>
+							</div>
+						</div>
+						<div id='stn37'>
+							<div class='interchange middlePageStnsTopPosition' id='interchange22'>
+							</div>
+							<img class='nrLogo middlePageStnsNrLogo' id='nrLogo9' src="../../images/nationalRailLogo.jpg" alt="NR Logo">
+							<div class='stnNames middlePageStnsOneLine' id='stn37Name'>
+								<p>Blackfriars</p>
+							</div>
+						</div>
+						<div id='stn38'>
+							<div class='nonInterchange middlePageStnsTopPosition' id='nonInterchange16'>
+							</div>
+							<div class='stnNames middlePageStnsTwoLines' id='stn38Name'>
+								<p>Mansion<br>House</p>
+							</div>
+						</div>
+						<div id='stn39'>
+							<div class='interchange middlePageStnsTopPosition' id='interchange23'>
+							</div>
+							<img class='nrLogo middlePageStnsNrLogo' id='nrLogo10' src="../../images/nationalRailLogo.jpg" alt="NR Logo">
+							<div class='stnNames middlePageStnsTwoLines' id='stn39Name'>
+								<p>Cannon<br>Street</p>
+							</div>
+						</div>
+						<div id='stn40'>
+							<div class='interchange middlePageStnsTopPosition' id='interchange24'>
+							</div>
+							<div class='stnNames middlePageStnsOneLine' id='stn40Name'>
+								<p>Monument</p>
+							</div>
+							<a class='field centralLine' id='central3' href="../centralLine/centralLine.html#nonInterchange14">
+								<p id='lineName'>Central</p>
+							</a>
+							<a href="../../dlr/dlr.html">
+ 	 							<img class='londonConnections' id='dlr1' src="../../images/dlr.jpg" alt="DLR">
+							</a>
+							<a class='field northernLine' id='northern2' href="../northernLine/northernLine.html#lineCurve9">
+								<p id='lineName'>Northern</p>
+							</a>
+							<a class='field doubleField wlooLine' id='wloo1' href="../waterlooAndCityLine/waterlooAndCityLine.html">
+								<p id='lineName'>Waterloo<br>& City</p>
+							</a>
+						</div>
+						<div id='stn41'>
+							<div class='interchange middlePageStnsTopPosition' id='interchange25'>
+							</div>
+							<div class='stnNames middlePageStnsTwoLines' id='stn41Name'>
+								<p>Tower<br>Hill</p>
+							</div>
+							<a class='field circleLine' id='circle7' href="../circleLine/circleLine.html#stn25Name">
+								<p id='lineName'>Circle</p>
+							</a>
+						</div>
+						<div id='stn42'>
+							<div class='interchange middlePageStnsTopPosition' id='interchange26'>
+							</div>
+							<div class='stnNames middlePageStnsTwoLines' id='stn42Name'>
+								<p>Aldgate<br>East</p>
+							</div>
+							<a class='field doubleField hsmithLine' id='hsmith4' href="../hammersmithAndCityLine/hammersmithAndCityLine.html#nonInterchange10">
+								<p id='lineName'>Hammersmith<br>& City</p>
+							</a>
+						</div>
+						<div id='stn43'>
+							<div class='interchange middlePageStnsTopPosition' id='interchange27'>
+							</div>
+							<div class='stnNames middlePageStnsOneLine' id='stn43Name'>
+								<p>Whitechapel</p>
+							</div>
+							<a href="../../londonOverground/londonOverground.html#londonUnderground15">
+ 	 							<img class='londonConnections' id='londonOverground5' src="../../images/londonOverground.jpg" alt="London Overground">
+							</a>
+						</div>
+						<div id='stn44'>
+							<div class='nonInterchange middlePageStnsTopPosition' id='nonInterchange17'>
+							</div>
+							<div class='stnNames middlePageStnsTwoLines' id='stn44Name'>
+								<p>Stepney<br>Green</p>
+							</div>
+						</div>
+						<div id='stn45'>
+							<div class='interchange middlePageStnsTopPosition' id='interchange28'>
+							</div>
+							<div class='stnNames middlePageStnsTwoLines' id='stn45Name'>
+								<p>Mile<br>End</p>
+							</div>
+							<a class='field centralLine' id='central4' href="../centralLine/centralLine.html#stn38Name">
+								<p id='lineName'>Central</p>
+							</a>
+						</div>
+						<div id='stn46'>
+							<div class='interchange middlePageStnsTopPosition' id='interchange29'>
+							</div>
+							<div class='stnNames middlePageStnsTwoLines' id='stn46Name'>
+								<p>Bow<br>Road</p>
+							</div>
+							<a href="../../dlr/dlr.html">
+ 	 							<img class='londonConnections' id='dlr2' src="../../images/dlr.jpg" alt="DLR">
+							</a>
+						</div>
+						<div id='stn47'>
+							<div class='nonInterchange middlePageStnsTopPosition' id='nonInterchange18'>
+							</div>
+							<div class='stnNames middlePageStnsTwoLines' id='stn47Name'>
+								<p>Bromley<br>By-Bow</p>
+							</div>
+						</div>
+						<div id='stn48'>
+							<div class='interchange middlePageStnsTopPosition' id='interchange30'>
+							</div>
+							<img class='nrLogo middlePageStnsNrLogo' id='nrLogo11' src="../../images/nationalRailLogo.jpg" alt="NR Logo">
+							<div class='stnNames middlePageStnsTwoLines' id='stn48Name'>
+								<p>West<br>Ham</p>
+							</div>
+							<a href="../../dlr/dlr.html">
+ 	 							<img class='londonConnections' id='dlr3' src="../../images/dlr.jpg" alt="DLR">
+							</a>
+							<a class='field jubileeLine' id='jubilee2' href="../jubileeLine/jubileeLine.html#crossrail3">
+								<p id='lineName'>Jubilee</p>
+							</a>
+						</div>
+						<div id='stn49'>
+							<div class='nonInterchange middlePageStnsTopPosition' id='nonInterchange19'>
+							</div>
+							<div class='stnNames middlePageStnsOneLine' id='stn49Name'>
+								<p>Plaistow</p>
+							</div>
+						</div>
+						<div id='stn50'>
+							<div class='nonInterchange middlePageStnsTopPosition' id='nonInterchange20'>
+							</div>
+							<div class='stnNames middlePageStnsTwoLines' id='stn50Name'>
+								<p>Upton<br>Park</p>
+							</div>
+						</div>
+						<div id='stn51'>
+							<div class='nonInterchange middlePageStnsTopPosition' id='nonInterchange21'>
+							</div>
+							<div class='stnNames middlePageStnsTwoLines' id='stn51Name'>
+								<p>East<br>Ham</p>
+							</div>
+						</div>
+						<div id='stn52'>
+							<div class='interchange middlePageStnsTopPosition' id='interchange31'>
+							</div>
+							<img class='nrLogo middlePageStnsNrLogo' id='nrLogo12' src="../../images/nationalRailLogo.jpg" alt="NR Logo">
+							<div class='stnNames middlePageStnsOneLine' id='stn52Name'>
+								<p>Barking</p>
+							</div>
+							<a class='field doubleField hsmithLine' id='hsmith5' href="../hammersmithAndCityLine/hammersmithAndCityLine.html#nonInterchange10">
+								<p id='lineName'>Hammersmith<br>& City</p>
+							</a>
+							<a href="../../londonOverground/londonOverground.html#linkDot5">
+ 	 							<img class='londonConnections' id='londonOverground6' src="../../images/londonOverground.jpg" alt="London Overground">
+							</a>
+						</div>
+						<div id='stn53'>
+							<div class='nonInterchange middlePageStnsTopPosition' id='nonInterchange22'>
+							</div>
+							<div class='stnNames middlePageStnsOneLine' id='stn53Name'>
+								<p>Upney</p>
+							</div>
+						</div>
+						<div id='stn54'>
+							<div class='nonInterchange middlePageStnsTopPosition' id='nonInterchange23'>
+							</div>
+							<div class='stnNames middlePageStnsOneLine' id='stn54Name'>
+								<p>Beacontree</p>
+							</div>
+						</div>
+						<div id='stn55'>
+							<div class='nonInterchange middlePageStnsTopPosition' id='nonInterchange24'>
+							</div>
+							<div class='stnNames middlePageStnsTwoLines' id='stn55Name'>
+								<p>Dagenham<br>Heathway</p>
+							</div>
+						</div>
+						<div id='stn56'>
+							<div class='nonInterchange middlePageStnsTopPosition' id='nonInterchange25'>
+							</div>
+							<div class='stnNames middlePageStnsTwoLines' id='stn56Name'>
+								<p>Dagenham<br>East</p>
+							</div>
+						</div>
+						<div id='stn57'>
+							<div class='nonInterchange middlePageStnsTopPosition' id='nonInterchange26'>
+							</div>
+							<div class='stnNames middlePageStnsTwoLines' id='stn57Name'>
+								<p>Elm<br>Park</p>
+							</div>
+						</div>
+						<div id='stn58'>
+							<div class='nonInterchange middlePageStnsTopPosition' id='nonInterchange27'>
+							</div>
+							<div class='stnNames middlePageStnsOneLine' id='stn58Name'>
+								<p>Hornchurch</p>
+							</div>
+						</div>
+						<div id='stn59'>
+							<div class='nonInterchange middlePageStnsTopPosition' id='nonInterchange28'>
+							</div>
+							<div class='stnNames middlePageStnsTwoLines' id='stn59Name'>
+								<p>Upminster<br>Bridge</p>
+							</div>
+						</div>
+						<div id='stn60'>
+							<div class='interchange middlePageStnsTopPosition' id='interchange32'>
+							</div>
+							<img class='nrLogo middlePageStnsNrLogo' id='nrLogo13' src="../../images/nationalRailLogo.jpg" alt="NR Logo">
+							<div class='stnNames middlePageStnsOneLine' id='stn60Name'>
+								<p>Upminster</p>
+							</div>
+							<a href="../../londonOverground/londonOverground.html#linkDot5">
+ 	 							<img class='londonConnections' id='londonOverground7' src="../../images/londonOverground.jpg" alt="London Overground">
+							</a>
+						</div>
+					</div>
+					<a href="districtLineMenu.html">
+ 	 					<img class='exitLinks' id='exitLink1' src="../../images/exit.jpg" alt="Exit">
+					</a>
+					<a href="districtLineMenu.html">
+ 	 					<img class='exitLinks' id='exitLink2' src="../../images/exit.jpg" alt="Exit">
+					</a>
+					<a href="districtLineMenu.html">
+ 	 					<img class='exitLinks' id='exitLink3' src="../../images/exit.jpg" alt="Exit">
+					</a>
+					<a href="districtLineMenu.html">
+ 	 					<img class='exitLinks' id='exitLink4' src="../../images/exit.jpg" alt="Exit">
+					</a>
+				</section>
+			</div>
+		</div>
+	</body>
+</html>
