@@ -1,0 +1,162 @@
+.heading {
+background-color: #ff3399;
+color: white;
+}
+.stationLinks {
+background-color: #ff3399;
+color: white;
+}
+#hammersmithAndCityLineStation1 {
+top: 32%;
+left: 12.5%;
+}
+#hammersmithAndCityLineStation2 {
+top: 32%;
+left: 27.5%;
+}
+#hammersmithAndCityLineStation3 {
+top: 32%;
+left: 42.5%;
+}
+#hammersmithAndCityLineStation4 {
+top: 32%;
+left: 57.5%;
+}
+#hammersmithAndCityLineStation5 {
+top: 32%;
+left: 72.5%;
+}
+#hammersmithAndCityLineStation6 {
+top: 38%;
+left: 12.5%;
+}
+#hammersmithAndCityLineStation7 {
+top: 38%;
+left: 27.5%;
+}
+#hammersmithAndCityLineStation8 {
+top: 38%;
+left: 42.5%;
+}
+#hammersmithAndCityLineStation9 {
+top: 38%;
+left: 57.5%;
+}
+#hammersmithAndCityLineStation10 {
+top: 38%;
+left: 72.5%;
+}
+#hammersmithAndCityLineStation11 {
+top: 44%;
+left: 12.5%;
+}
+#hammersmithAndCityLineStation12 {
+top: 44%;
+left: 27.5%;
+}
+#hammersmithAndCityLineStation13 {
+top: 44%;
+left: 42.5%;
+}
+#hammersmithAndCityLineStation14 {
+top: 44%;
+left: 57.5%;
+}
+#hammersmithAndCityLineStation15 {
+top: 44%;
+left: 72.5%;
+}
+#hammersmithAndCityLineStation16 {
+top: 50%;
+left: 12.5%;
+}
+#hammersmithAndCityLineStation17 {
+top: 50%;
+left: 27.5%;
+}
+#hammersmithAndCityLineStation18 {
+top: 50%;
+left: 42.5%;
+}
+#hammersmithAndCityLineStation19 {
+top: 50%;
+left: 57.5%;
+}
+#hammersmithAndCityLineStation20 {
+top: 50%;
+left: 72.5%;
+}
+#hammersmithAndCityLineStation21 {
+top: 56%;
+left: 12.5%;
+}
+#hammersmithAndCityLineStation22 {
+top: 56%;
+left: 27.5%;
+}
+#hammersmithAndCityLineStation23 {
+top: 56%;
+left: 42.5%;
+}
+#hammersmithAndCityLineStation24 {
+top: 56%;
+left: 57.5%;
+}
+#hammersmithAndCityLineStation25 {
+top: 56%;
+left: 72.5%;
+}
+#hammersmithAndCityLineStation26 {
+top: 62.1%;
+left: 12.5%;
+}
+#hammersmithAndCityLineStation27 {
+top: 62.1%;
+left: 27.5%;
+}
+#hammersmithAndCityLineStation28 {
+top: 62.1%;
+left: 42.5%;
+}
+#hammersmithAndCityLineStation29 {
+top: 62.1%;
+left: 57.5%;
+width: 14.95%;
+}
+#exitLink1 {
+top: 85%;
+left: 42%;
+}
+@media only screen and (max-width: 1440px) {
+#hammersmithAndCityLineStation26 {
+top: 62.15%;
+}
+#hammersmithAndCityLineStation27 {
+top: 62.15%;
+}
+#hammersmithAndCityLineStation28 {
+top: 62.15%;
+}
+#hammersmithAndCityLineStation29 {
+top: 62.15%;
+}
+}
+@media only screen and (max-width: 1366px) {
+#hammersmithAndCityLineStation29 {
+width: 14.9%;
+}
+}
+@media only screen and (max-width: 800px) {
+#hammersmithAndCityLineStation26 {
+top: 62.2%;
+}
+#hammersmithAndCityLineStation27 {
+top: 62.2%;
+}
+#hammersmithAndCityLineStation28 {
+top: 62.2%;
+}
+#hammersmithAndCityLineStation29 {
+top: 62.2%;
+}
+}
