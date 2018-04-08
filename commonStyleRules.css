@@ -1,0 +1,257 @@
+#wrapper { 
+width: 100%;
+height: auto; 
+margin: 0 auto;
+display: -moz-inline-stack;
+display: inline-block;
+box-sizing: border-box;
+vertical-align: middle;
+}
+body {
+font-family: 'Raleway', sans-serif; 
+margin: 0;
+padding: 0 
+}
+.heading {
+font-size: 22px;
+text-align: center;
+padding: 1%;
+}
+.line {
+position: absolute;
+height: 2%;
+left: 5%;
+top: 63%; 
+}
+.lineEnd {
+position: absolute;
+height: 6%;
+width: 1%;
+}
+.horizLineEnd {
+height: 1.9%;
+width: 4%;
+}
+.interchange {
+position: absolute;
+background-color:#fff;
+border: 0.5em solid black;    
+height: 4%;
+border-radius:50%;
+-moz-border-radius:50%;
+-webkit-border-radius:50%;
+width: 2%;
+top: 61.3%;
+}
+.nonInterchange {
+position: absolute;
+top: 61.3%;
+height: 2%;
+width: 0.9%;
+}
+.sideNonInterchange {
+position: absolute;
+height: 2.1%;
+width: 1.4%;
+}
+a {
+text-decoration: none;
+}
+img {
+position: absolute;
+width: 8.5%;
+height: 9%;
+}
+.exitLinks {
+position: absolute;
+height: 10%;
+width: 15%;
+}
+.nrLogo {
+position: absolute;
+top: 47%;
+width: 3em;
+height: 2em;
+}
+.mainRouteStnsThreeLines {
+top: 49%;
+}
+.mainRouteStnsTwoLines {
+top: 52%;
+}
+.mainRouteStnsOneLine {
+top: 55%;
+}
+.stnNames {
+position: absolute;
+font-weight: bold;
+font-size: 150%;
+text-align: center;
+}
+.field {
+position: absolute;
+width: 7.5%;
+height: 3%;
+display: flex;
+align-items: center;
+text-align: center;
+justify-content: center;
+}
+.doubleField {
+height: 6%;
+}
+.tripleField {
+height: 9%;
+}
+.stationLinks {
+width: 15%;
+height: 6%;
+font-weight: bold;
+border: 1px solid black;
+font-size: 120%;
+}
+.bakerlooLine {
+background: #641E16;
+color: white;
+}
+.centralLine {
+background-color: red;
+color: white;
+}
+.circleLine {
+background-color: yellow;
+color: black;
+}
+.districtLine {
+background-color: darkgreen;
+color: white;
+}
+.emid {
+background-color: #f49842;
+color: black;
+}
+.hsmithLine {
+background-color: #ff3399;
+color: white;
+}
+.jubileeLine {
+background-color: silver;
+color: black;
+}
+.metropolitanLine {
+background-color: purple;
+color: white;
+}
+.northernLine {
+background-color: black;
+color: white;
+}
+.piccadillyLine {
+background-color: darkblue;
+color: white;
+}
+.victoriaLine {
+background-color: #42cef4;
+color: black;
+}
+.wlooLine {
+background-color: #42f4d7;
+color: black;
+}
+#lineName {
+text-size: 110%;
+font-weight: bold;
+text-decoration: none;
+}
+.stnInfo {
+position: absolute;
+color: red;
+font-size: 80%;
+}
+.bigLink {
+position: absolute;
+width: 30%;
+left: 35%;
+height: 10%;
+font-size: 200%;
+display: flex;
+align-items: center;
+text-align: center;
+justify-content: center;
+font-weight: bold;
+}
+.stnLinks {
+color: black;
+}
+#bigLink1 {
+top: 40%;
+}
+#bigLink2 {
+top: 55%;
+}
+#bigLink3 {
+top: 70%;
+}
+#bigLink4 {
+top: 85%;
+}
+#bigLink5 {
+top: 100%;
+}
+#bigLink6 {
+top: 115%;
+}
+#bigLink7 {
+top: 130%;
+}
+#bigLink8 {
+top: 145%;
+}
+#bigLink9 {
+top: 160%;
+}
+#bigLink10 {
+top: 175%;
+}
+#bigLink11 {
+top: 190%;
+}
+#bigLink12 {
+top: 205%;
+}
+#bigLink13 {
+top: 220%;
+}
+#bigLink14 {
+top: 235%;
+}
+#bigLink15 {
+top: 250%;
+}
+#bigLink16 {
+top: 265%;
+}
+#bigLink17 {
+top: 280%;
+}
+#bigLink18 {
+top: 295%;
+}
+#bigLink19 {
+top: 310%;
+}
+#bigLink20 {
+top: 325%;
+}
+#bigLink21 {
+top: 340%;
+}
+#bigLink22 {
+top: 355%;
+}
+#bigLink23 {
+top: 370%;
+}
+#bigLink24 {
+top: 385%;
+}
