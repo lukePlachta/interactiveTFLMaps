@@ -1,0 +1,272 @@
+@media only screen and (max-width: 1680px) {
+#lineCurve2 {
+height: 9.9%; /* as the half of the width */
+}
+#lineCurve3 {
+width: 15%;
+left: 145%;
+}
+#lineCurve5 {
+top: 87.9%;
+}
+#lineCurve7 {
+width: 55%;
+left: 265%;
+}
+#lineCurve15 {
+width: 39.6%;
+}
+#lineCurve17 {
+width: 50%;
+}
+#lineCurve19 {
+top: 135.05%;
+}
+#lineCurve26 {
+width: 48%;
+}
+}
+@media only screen and (max-width: 1600px) {
+.lineCurve {
+border: 0.75em solid #f49842;
+}
+#lineCurve1 {
+border-top-right-radius: 50px;
+}
+#lineCurve2 {
+border-bottom-left-radius: 50px;
+}
+#lineCurve4 {
+border-bottom-left-radius: 50px;
+}
+#lineCurve5 {
+border-bottom-right-radius: 50px;
+}
+#lineCurve6 {
+border-top-left-radius: 50px;
+}
+#lineCurve10 {
+height: 27.7%; /* as the half of the width */
+border-bottom-left-radius: 50px;
+top: 63.8%;
+}
+#lineCurve11 {
+height: 25.2%; /* as the half of the width */
+}
+#lineCurve12 {
+border-top-left-radius: 50px;
+}
+#lineCurve13 {
+border-bottom-right-radius: 50px;
+}
+#lineCurve14 {
+height: 27.7%; /* as the half of the width */
+top: 63.8%;
+}
+#lineCurve15 {
+height: 25.2%; /* as the half of the width */
+border-top-left-radius: 50px;
+top: 35%;
+}
+#lineCurve19 {
+border-top-left-radius: 50px;
+}
+#lineCurve20 {
+border-bottom-right-radius: 50px;
+}
+#lineCurve22 {
+width: 95.05%;
+}
+#lineCurve23 {
+border-top-left-radius: 50px;
+}
+#lineCurve24 {
+border-bottom-right-radius: 50px;
+}
+}
+@media only screen and (max-width: 1440px) {
+#lineCurve25 {
+border-bottom-left-radius: 50px;
+}
+}
+@media only screen and (max-width: 1366px) {
+.lineCurve {
+border: 0.6em solid #f49842;
+}
+#lineCurve5 {
+width: 10.05%;
+}
+#lineCurve7 {
+width: 40%;
+left: 280%;
+}
+#lineCurve11 {
+width: 82.1%;
+height: 25.3%;
+}
+#lineCurve13 {
+width: 20.05%;
+}
+#lineCurve14 {
+border-bottom-right-radius: 25px;
+}
+#lineCurve15 {
+height: 25.3%; /* as the half of the width */
+}
+#lineCurve16 {
+height: 10.2%; /* as the half of the width */
+border-top-right-radius: 40px;
+}
+#lineCurve17 {
+border-top-left-radius: 40px;
+}
+#lineCurve19 {
+top: 134.95%;
+}
+#lineCurve21 {
+top: 207.95%;
+}
+#lineCurve23 {
+height: 10.1%; /* as the half of the width */
+top: 229.9%;
+}
+
+}
+@media only screen and (max-width: 1280px) {
+#lineCurve3 {
+width: 15.05%;
+}
+#lineCurve5 {
+width: 10%;
+}
+#lineCurve10 {
+height: 27.8%; /* as the half of the width */
+top: 63.7%;
+}
+#lineCurve11 {
+height: 25.4%;
+}
+#lineCurve13 {
+width: 20%;
+}
+#lineCurve14 {
+height: 27.8%; /* as the half of the width */
+top: 63.7%;
+}
+#lineCurve15 {
+height: 25.4%; /* as the half of the width */
+}
+#lineCurve24 {
+width: 10.05%;
+}
+}
+@media only screen and (max-width: 1152px) {
+.lineCurve {
+border: 0.5em solid #f49842;
+}
+#lineCurve3 {
+width: 15%;
+}
+#lineCurve8 {
+height: 11%; /* as the half of the width */
+}
+#lineCurve10 {
+height: 28.3%; /* as the half of the width */
+top: 63.2%;
+}
+#lineCurve11 {
+width: 82%;
+height: 25.7%;
+}
+#lineCurve14 {
+height: 28.3%; /* as the half of the width */
+top: 63.2%;
+}
+#lineCurve15 {
+height: 25.7%; /* as the half of the width */
+}
+#lineCurve19 {
+top: 135%;
+}
+#lineCurve21 {
+top: 208%;
+border-top-left-radius: 25px;
+}
+}
+@media only screen and (max-width: 1024px) {
+#lineCurve5 {
+top: 87.7%;
+}
+#lineCurve8 {
+border-top-right-radius: 25px;
+}
+#lineCurve9 {
+border-top-left-radius: 25px;
+}
+#lineCurve10 {
+height: 28.1%; /* as the half of the width */
+top: 63.4%;
+}
+#lineCurve11 {
+height: 25.6%;
+}
+#lineCurve14 {
+height: 28.1%; /* as the half of the width */
+top: 63.4%;
+}
+#lineCurve15 {
+height: 25.6%; /* as the half of the width */
+}
+#lineCurve17 {
+width: 55%;
+}
+#lineCurve23 {
+height: 10.1%; /* as the half of the width */
+top: 230%;
+left: 190.1%;
+}
+}
+@media only screen and (max-width: 800px) {
+.lineCurve {
+border: 0.3em solid #f49842;
+}
+#lineCurve3 {
+border-top-right-radius: 25px;
+}
+#lineCurve5 {
+top: 87.8%;
+border-bottom-right-radius: 25px;
+}
+#lineCurve7 {
+border-bottom-right-radius: 25px;
+}
+#lineCurve10 {
+height: 28.2%; /* as the half of the width */
+border-bottom-left-radius: 25px;
+top: 63.3%;
+}
+#lineCurve11 {
+height: 25.9%;
+border-top-right-radius: 25px;
+}
+#lineCurve14 {
+height: 28.2%; /* as the half of the width */
+top: 63.3%;
+}
+#lineCurve15 {
+height: 25.9%;
+border-top-left-radius: 25px;
+}
+#lineCurve20 {
+border-bottom-right-radius: 25px;
+}
+#lineCurve23 {
+border-top-left-radius: 25px;
+}
+#lineCurve24 {
+border-bottom-right-radius: 25px;
+}
+#lineCurve26 {
+border-top-left-radius: 25px;
+}
+}

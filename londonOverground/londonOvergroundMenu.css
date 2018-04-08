@@ -1,0 +1,529 @@
+.heading {
+background-color: #f49842;
+color: black;
+width: 143%;
+}
+.stationLinks {
+background-color: #f49842;
+color: black;
+border: 1px solid black;
+}
+#londonOvergroundStation1 {
+top: 34%;
+left: 5%;
+}
+#londonOvergroundStation2 {
+top: 34%;
+left: 20%;
+}
+#londonOvergroundStation3 {
+top: 34%;
+left: 35%;
+}
+#londonOvergroundStation4 {
+top: 34%;
+left: 50%;
+}
+#londonOvergroundStation5 {
+top: 34%;
+left: 65%;
+}
+#londonOvergroundStation6 {
+top: 34%;
+left: 80%;
+}
+#londonOvergroundStation7 {
+top: 34%;
+left: 95%;
+}
+#londonOvergroundStation8 {
+top: 34%;
+left: 110%;
+}
+#londonOvergroundStation9 {
+top: 34%;
+left: 125%;
+}
+#londonOvergroundStation10 {
+top: 40%;
+left: 5%;
+}
+#londonOvergroundStation11 {
+top: 40%;
+left: 20%;
+}
+#londonOvergroundStation12 {
+top: 40%;
+left: 35%;
+}
+#londonOvergroundStation13 {
+top: 40%;
+left: 50%;
+}
+#londonOvergroundStation14 {
+top: 40%;
+left: 65%;
+}
+#londonOvergroundStation15 {
+top: 40%;
+left: 80%;
+}
+#londonOvergroundStation16 {
+top: 40%;
+left: 95%;
+}
+#londonOvergroundStation17 {
+top: 40%;
+left: 110%;
+}
+#londonOvergroundStation18 {
+top: 40%;
+left: 125%;
+}
+#londonOvergroundStation19 {
+top: 46%;
+left: 5%;
+}
+#londonOvergroundStation20 {
+top: 46%;
+left: 20%;
+}
+#londonOvergroundStation21 {
+top: 46%;
+left: 35%;
+}
+#londonOvergroundStation22 {
+top: 46%;
+left: 50%;
+}
+#londonOvergroundStation23 {
+top: 46%;
+left: 65%;
+}
+#londonOvergroundStation24 {
+top: 46%;
+left: 80%;
+}
+#londonOvergroundStation25 {
+top: 46%;
+left: 95%;
+}
+#londonOvergroundStation26 {
+top: 46%;
+left: 110%;
+}
+#londonOvergroundStation27 {
+top: 46%;
+left: 125%;
+}
+#londonOvergroundStation28 {
+top: 52%;
+left: 5%;
+}
+#londonOvergroundStation29 {
+top: 52%;
+left: 20%;
+}
+#londonOvergroundStation30 {
+top: 52%;
+left: 35%;
+}
+#londonOvergroundStation31 {
+top: 52%;
+left: 50%;
+}
+#londonOvergroundStation32 {
+top: 52%;
+left: 65%;
+}
+#londonOvergroundStation33 {
+top: 52%;
+left: 80%;
+}
+#londonOvergroundStation34 {
+top: 52%;
+left: 95%;
+}
+#londonOvergroundStation35 {
+top: 52%;
+left: 110%;
+}
+#londonOvergroundStation36 {
+top: 52%;
+left: 125%;
+}
+#londonOvergroundStation37 {
+top: 58%;
+left: 5%;
+}
+#londonOvergroundStation38 {
+top: 58%;
+left: 20%;
+}
+#londonOvergroundStation39 {
+top: 58%;
+left: 35%;
+}
+#londonOvergroundStation40 {
+top: 58%;
+left: 50%;
+}
+#londonOvergroundStation41 {
+top: 58%;
+left: 65%;
+}
+#londonOvergroundStation42 {
+top: 58%;
+left: 80%;
+}
+#londonOvergroundStation43 {
+top: 58%;
+left: 95%;
+}
+#londonOvergroundStation44 {
+top: 58%;
+left: 110%;
+}
+#londonOvergroundStation45 {
+top: 58%;
+left: 125%;
+}
+#londonOvergroundStation46 {
+top: 64%;
+left: 5%;
+}
+#londonOvergroundStation47 {
+top: 64%;
+left: 20%;
+}
+#londonOvergroundStation48 {
+top: 64%;
+left: 35%;
+}
+#londonOvergroundStation49 {
+top: 64%;
+left: 50%;
+}
+#londonOvergroundStation50 {
+top: 64%;
+left: 65%;
+}
+#londonOvergroundStation51 {
+top: 64%;
+left: 80%;
+}
+#londonOvergroundStation52 {
+top: 64%;
+left: 95%;
+}
+#londonOvergroundStation53 {
+top: 64%;
+left: 110%;
+}
+#londonOvergroundStation54 {
+top: 64%;
+left: 125%;
+}
+#londonOvergroundStation55 {
+top: 70%;
+left: 5%;
+}
+#londonOvergroundStation56 {
+top: 70%;
+left: 20%;
+}
+#londonOvergroundStation57 {
+top: 70%;
+left: 35%;
+}
+#londonOvergroundStation58 {
+top: 70%;
+left: 50%;
+}
+#londonOvergroundStation59 {
+top: 70%;
+left: 65%;
+}
+#londonOvergroundStation60 {
+top: 70%;
+left: 80%;
+}
+#londonOvergroundStation61 {
+top: 70%;
+left: 95%;
+}
+#londonOvergroundStation62 {
+top: 70%;
+left: 110%;
+}
+#londonOvergroundStation63 {
+top: 70%;
+left: 125%;
+}
+#londonOvergroundStation64 {
+top: 76%;
+left: 5%;
+}
+#londonOvergroundStation65 {
+top: 76%;
+left: 20%;
+}
+#londonOvergroundStation66 {
+top: 76%;
+left: 35%;
+}
+#londonOvergroundStation67 {
+top: 76%;
+left: 50%;
+}
+#londonOvergroundStation68 {
+top: 76%;
+left: 65%;
+}
+#londonOvergroundStation69 {
+top: 76%;
+left: 80%;
+}
+#londonOvergroundStation70 {
+top: 76%;
+left: 95%;
+}
+#londonOvergroundStation71 {
+top: 76%;
+left: 110%;
+}
+#londonOvergroundStation72 {
+top: 76%;
+left: 125%;
+}
+#londonOvergroundStation73 {
+top: 82%;
+left: 5%;
+}
+#londonOvergroundStation74 {
+top: 82%;
+left: 20%;
+}
+#londonOvergroundStation75 {
+top: 82%;
+left: 35%;
+}
+#londonOvergroundStation76 {
+top: 82%;
+left: 50%;
+}
+#londonOvergroundStation77 {
+top: 82%;
+left: 65%;
+}
+#londonOvergroundStation78 {
+top: 82%;
+left: 80%;
+}
+#londonOvergroundStation79 {
+top: 82%;
+left: 95%;
+}
+#londonOvergroundStation80 {
+top: 82%;
+left: 110%;
+}
+#londonOvergroundStation81 {
+top: 82%;
+left: 125%;
+}
+#londonOvergroundStation82 {
+top: 88%;
+left: 5%;
+}
+#londonOvergroundStation83 {
+top: 88%;
+left: 20%;
+}
+#londonOvergroundStation84 {
+top: 88%;
+left: 35%;
+}
+#londonOvergroundStation85 {
+top: 88%;
+left: 50%;
+}
+#londonOvergroundStation86 {
+top: 88%;
+left: 65%;
+}
+#londonOvergroundStation87 {
+top: 88%;
+left: 80%;
+}
+#londonOvergroundStation88 {
+top: 88%;
+left: 95%;
+}
+#londonOvergroundStation89 {
+top: 88%;
+left: 110%;
+}
+#londonOvergroundStation90 {
+top: 88%;
+left: 125%;
+}
+#londonOvergroundStation91 {
+top: 94%;
+left: 5%;
+}
+#londonOvergroundStation92 {
+top: 94%;
+left: 20%;
+}
+#londonOvergroundStation93 {
+top: 94%;
+left: 35%;
+}
+#londonOvergroundStation94 {
+top: 94%;
+left: 50%;
+}
+#londonOvergroundStation95 {
+top: 94%;
+left: 65%;
+}
+#londonOvergroundStation96 {
+top: 94%;
+left: 80%;
+}
+#londonOvergroundStation97 {
+top: 94%;
+left: 95%;
+}
+#londonOvergroundStation98 {
+top: 94%;
+left: 110%;
+}
+#londonOvergroundStation99 {
+top: 94%;
+left: 125%;
+}
+#londonOvergroundStation100 {
+top: 100%;
+left: 5%;
+}
+#londonOvergroundStation101 {
+top: 100%;
+left: 20%;
+}
+#londonOvergroundStation102 {
+top: 100%;
+left: 35%;
+}
+#londonOvergroundStation103 {
+top: 100%;
+left: 50%;
+}
+#londonOvergroundStation104 {
+top: 100%;
+left: 65%;
+}
+#londonOvergroundStation105 {
+top: 100%;
+left: 80%;
+}
+#londonOvergroundStation106 {
+top: 100%;
+left: 95%;
+}
+#londonOvergroundStation107 {
+top: 100%;
+left: 110%;
+}
+#londonOvergroundStation108 {
+top: 100%;
+left: 125%;
+}
+#londonOvergroundStation109 {
+top: 106.1%;
+left: 5%;
+}
+#londonOvergroundStation110 {
+top: 106.1%;
+left: 20%;
+}
+#londonOvergroundStation111 {
+top: 106.1%;
+left: 35%;
+}
+#londonOvergroundStation112 {
+top: 106.1%;
+left: 50%;
+width: 14.95%;
+}
+#exitLink1 {
+top: 20%;
+left: 65%;
+}
+#exitLink2 {
+top: 118%;
+left: 65%;
+}
+@media only screen and (max-width: 1680px) {
+#londonOvergroundStation112 {
+width: 14.9%;
+}
+}
+@media only screen and (max-width: 1600px) {
+#londonOvergroundStation109 {
+top: 106.15%;
+}
+#londonOvergroundStation110 {
+top: 106.15%;
+}
+#londonOvergroundStation111 {
+top: 106.15%;
+}
+#londonOvergroundStation112 {
+top: 106.15%;
+}
+}
+@media only screen and (max-width: 1152px) {
+#londonOvergroundStation109 {
+top: 106.1%;
+}
+#londonOvergroundStation110 {
+top: 106.1%;
+}
+#londonOvergroundStation111 {
+top: 106.1%;
+}
+#londonOvergroundStation112 {
+top: 106.1%;
+}
+}
+@media only screen and (max-width: 1024px) {
+#londonOvergroundStation109 {
+top: 106.15%;
+}
+#londonOvergroundStation110 {
+top: 106.15%;
+}
+#londonOvergroundStation111 {
+top: 106.15%;
+}
+#londonOvergroundStation112 {
+top: 106.15%;
+}
+}
+@media only screen and (max-width: 800px) {
+#londonOvergroundStation109 {
+top: 106.2%;
+}
+#londonOvergroundStation110 {
+top: 106.2%;
+}
+#londonOvergroundStation111 {
+top: 106.2%;
+}
+#londonOvergroundStation112 {
+top: 106.2%;
+width: 14.8%;
+}
+}

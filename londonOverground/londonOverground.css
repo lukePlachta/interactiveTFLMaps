@@ -1,0 +1,1096 @@
+.heading {
+background-color: #f49842;
+width: 410%;
+}
+.nonInterchange {
+background-color: #f49842;
+}
+.line {
+background-color: #f49842;
+}
+.lineEnd {
+background-color: #f49842;
+}
+.watfordJunctionRouteStnsTopPosition {
+top: 51.3%;
+}
+.watfordJunctionRouteStnsOneLine {
+top: 45%;
+}
+.watfordJunctionRouteStnsTwoLines {
+top: 42%;
+}
+.watfordJunctionRouteNRLogo {
+top: 38%;
+}
+.richmondToStratfordRouteStnsTopPosition {
+top: 111.3%;
+}
+.richmondToStratfordRouteStnsOneLine {
+top: 105%;
+}
+.richmondToStratfordRouteStnsTwoLines {
+top: 102%;
+}
+.richmondToStratfordRouteNRLogo {
+top: 98%;
+}
+.eustonBranchStnsTopPosition {
+top: 141.3%;
+}
+.eustonBranchStnsTwoLines {
+top: 132%;
+}
+.barkingBranchStnsTopPosition {
+top: 60.3%;
+}
+.barkingBranchStnsOneLine {
+top: 54%;
+}
+.barkingBranchStnsTwoLines {
+top: 51%;
+}
+.sHillToClaptonStnsTopPosition {
+top: 89.8%;
+}
+.upperRoutesStnsTopPosition {
+top: 33.3%;
+}
+.upperRoutesStnsOneLine {
+top: 27%;
+}
+.upperRoutesStnsTwoLines {
+top: 24%;
+}
+.upperRoutesStnsNrLogo {
+top: 20%;
+}
+.southLondonUpperRouteStnsTopPosition {
+top: 206.3%;
+}
+.southLondonUpperRouteStnsOneLine {
+top: 200%;
+}
+.southLondonUpperRouteStnsTwoLines {
+top: 197%;
+}
+.southLondonUpperRouteStnsNrLogo {
+top: 193%;
+}
+.southLondonLowerRouteStnsTopPosition {
+top: 228.2%;
+}
+.southLondonLowerRouteStnsOneLine {
+top: 222%;
+}
+.southLondonLowerRouteStnsTwoLines {
+top: 219%;
+}
+.linkDot {
+position: absolute;
+background: white;
+height: 1%;
+width: 1%;
+}
+#interchange1 {
+left: 4.5%;
+}
+#stn1Name {
+left: 3.4%;
+}
+#nrLogo1 {
+left: 4.8%;
+}
+#nonInterchange1 {
+left: 15%;
+}
+#stn2Name {
+left: 12.2%;
+}
+#interchange2 {
+left: 25%;
+}
+#nrLogo2 {
+left: 25.3%;
+}
+#stn3Name {
+left: 24.3%;
+}
+#nonInterchange2 {
+left: 35%;
+}
+#stn4Name {
+left: 32%;
+}
+#nonInterchange3 {
+left: 45%;
+}
+#stn5Name {
+left: 43.7%;
+}
+#nonInterchange4 {
+left: 55%;
+}
+#stn6Name {
+left: 52.3%;
+}
+#interchange3 {
+left: 65%;
+}
+#nrLogo3 {
+left: 65.3%;
+}
+#stn7Name {
+left: 62.9%;
+}
+#londonUnderground1 {
+top: 58%;
+left: 62.1%;
+}
+#nonInterchange5 {
+left: 75%;
+}
+#stn8Name {
+left: 73.4%;
+}
+#nonInterchange6 {
+left: 85%;
+}
+#stn9Name {
+left: 83.4%;
+}
+#nonInterchange7 {
+left: 95%;
+}
+#stn10Name {
+left: 92.6%;
+}
+#interchange4 {
+left: 105%;
+}
+#nrLogo4 {
+left: 105.3%;
+}
+#stn11Name {
+left: 103.5%;
+}
+#nonInterchange8 {
+left: 115%;
+}
+#stn12Name {
+left: 111.8%;
+}
+#nonInterchange9 {
+left: 125%;
+}
+#stn13Name {
+left: 122.2%;
+}
+#line1 {
+top: 113%;
+left: 85%;
+width: 271%;
+}
+#interchange5 {
+left: 84.5%;
+}
+#nrLogo5 {
+left: 84.8%;
+}
+#stn14Name {
+left: 82.9%;
+}
+#londonUnderground2 {
+top: 118%;
+left: 81.6%;
+}
+#nonInterchange10 {
+left: 95%;
+}
+#stn15Name {
+left: 93%;
+}
+#interchange6 {
+left: 105%;
+}
+#stn16Name {
+left: 102.5%;
+}
+#londonUnderground3 {
+top: 118%;
+left: 102.1%;
+}
+#nonInterchange11 {
+left: 115%;
+}
+#stn17Name {
+left: 113.7%;
+}
+#nonInterchange13 {
+left: 125%;
+}
+#stn18Name {
+left: 123.3%;
+}
+#interchange8 {
+left: 145%;
+}
+#stn19Name {
+left: 143.5%;
+}
+#londonUnderground4 {
+top: 118%;
+left: 142.1%;
+}
+#nonInterchange14 {
+left: 170%;
+}
+#stn20Name {
+left: 168.5%;
+}
+#interchange9 {
+left: 180%;
+}
+#stn21Name {
+left: 179.2%;
+}
+#londonUnderground5 {
+top: 148%;
+left: 177.1%;
+}
+#nonInterchange15 {
+left: 190%;
+}
+#stn22Name {
+width: 8%;
+left: 186.5%;
+}
+#nonInterchange16 {
+left: 200%;
+}
+#stn23Name {
+left: 197%;
+}
+#interchange10 {
+left: 210%;
+}
+#nrLogo6 {
+top: 128%;
+left: 210.3%;
+}
+#stn24Name {
+top: 135%;
+left: 209.4%;
+}
+#londonUnderground6 {
+top: 148%;
+left: 207.1%;
+}
+#nonInterchange17 {
+left: 170%;
+}
+#stn25Name {
+left: 168.5%;
+}
+#nonInterchange18 {
+left: 180%;
+}
+#stn26Name {
+left: 176.7%;
+}
+#nonInterchange19 {
+left: 190%;
+}
+#stn27Name {
+left: 186.6%;
+}
+#interchange11 {
+left: 200%;
+}
+#nrLogo7 {
+left: 200.3%;
+}
+#stn28Name {
+left: 198%;
+}
+#londonUnderground7 {
+top: 118%;
+left: 197.1%;
+}
+#nonInterchange20 {
+left: 210%;
+}
+#stn29Name {
+width: 9%;
+left: 205.8%;
+}
+#nonInterchange21 {
+left: 220%;
+}
+#stn30Name {
+left: 217%;
+}
+#nonInterchange22 {
+left: 230%;
+}
+#stn31Name {
+left: 228.3%;
+}
+#nonInterchange23 {
+left: 250%;
+}
+#stn32Name {
+left: 247.6%;
+}
+#nonInterchange24 {
+left: 260%;
+}
+#stn33Name {
+left: 258.2%;
+}
+#nonInterchange25 {
+left: 270%;
+}
+#stn34Name {
+width: 9%;
+left: 265.9%;
+}
+#nonInterchange26 {
+left: 280%;
+}
+#stn35Name {
+left: 277.2%;
+}
+#interchange12 {
+left: 302%;
+}
+#stn36Name {
+left: 300.1%;
+}
+#londonUnderground8 {
+top: 67%;
+left: 299.1%;
+}
+#nonInterchange27 {
+left: 315%;
+}
+#stn37Name {
+left: 311.2%;
+}
+#nonInterchange28 {
+left: 335%;
+}
+#stn38Name {
+top: 48%;
+left: 333.1%;
+}
+#nonInterchange29 {
+left: 345%;
+}
+#stn39Name {
+left: 341.7%;
+}
+#nonInterchange30 {
+left: 355%;
+}
+#stn40Name {
+left: 352.4%;
+}
+#nonInterchange31 {
+left: 365%;
+}
+#stn41Name {
+left: 361.5%;
+}
+#interchange13 {
+left: 375%;
+}
+#nrLogo8 {
+top: 47%;
+left: 375.3%;
+}
+#stn42Name {
+left: 374.1%;
+}
+#londonUnderground9 {
+top: 67%;
+left: 372.1%;
+}
+#nonInterchange32 {
+left: 250%;
+}
+#stn43Name {
+width: 8%;
+left: 246.4%;
+}
+#nonInterchange33 {
+left: 260%;
+}
+#stn44Name {
+left: 257.9%;
+}
+#nonInterchange34 {
+left: 270%;
+}
+#stn45Name {
+width: 11%;
+left: 264.8%;
+}
+#interchange14 {
+left: 280%;
+}
+#nrLogo9 {
+left: 280.3%;
+}
+#stn46Name {
+width: 8%;
+left: 277.4%;
+}
+#londonUnderground10 {
+top: 118%;
+left: 277.1%;
+}
+#nonInterchange35 {
+left: 290%;
+}
+#stn47Name {
+left: 287.1%;
+}
+#nonInterchange36 {
+left: 310%;
+}
+#stn48Name {
+left: 307.5%;
+}
+#interchange15 {
+top: 100%;
+left: 319.1%;
+}
+#nrLogo10 {
+top: 101%;
+left: 314%;
+}
+#stn49Name {
+top: 98.5%;
+width: 10%;
+left: 322.6%;
+}
+#nonInterchange37 {
+left: 315%;
+} 
+#stn50Name {
+top: 81%;
+left: 313.1%;
+}
+#nonInterchange38 {
+left: 305%;
+} 
+#stn51Name {
+top: 81%;
+left: 302.2%;
+}
+#nonInterchange39 {
+left: 295%;
+} 
+#stn52Name {
+top: 81%;
+left: 292.8%;
+}
+#interchange16 {
+top: 70%;
+left: 286.1%;
+}
+#nrLogo11 {
+top: 70.6%;
+left: 270%;
+}
+#stn53Name {
+top: 68.5%;
+width: 8%;
+left: 276%;
+}
+#londonUnderground11 {
+top: 68.3%;
+left: 290%;
+}
+#nonInterchange40 {
+left: 280%;
+}
+#stn54Name {
+left: 278.6%;
+}
+#nonInterchange41 {
+left: 270%;
+}
+#stn55Name {
+top: 21%;
+left: 268.7%;
+}
+#nonInterchange42 {
+left: 260%;
+}
+#stn56Name {
+left: 258.7%;
+}
+#interchange17 {
+left: 250%;
+}
+#nrLogo12 {
+left: 250.3%;
+}
+#stn57Name {
+left: 248.4%;
+}
+#nonInterchange43 {
+top: 53.3%;
+left: 230%;
+}
+#stn58Name {
+top: 44%;
+width: 8%;
+left: 226.5%;
+}
+#lineEnd1 {
+top: 53%;
+left: 220%;
+}
+#stn59Name {
+top: 44%;
+left: 218.5%;
+}
+#nonInterchange44 {
+left: 235%;
+}
+#stn60Name {
+left: 232.3%;
+}
+#nonInterchange45 {
+left: 225%;
+}
+#stn61Name {
+left: 223.4%;
+}
+#nonInterchange46 {
+left: 215%;
+}
+#stn62Name {
+left: 212.3%;
+}
+#lineEnd2 {
+top: 33%;
+left: 205%;
+}
+#stn63Name {
+left: 202.5%;
+}
+#nonInterchange47 {
+left: 325%;
+}
+#stn64Name {
+top: 84%;
+left: 323.1%;
+}
+#nonInterchange48 {
+top: 75%;
+left: 330.6%;
+}
+#stn65Name {
+top: 72%;
+width: 10%;
+left: 333%;
+}
+#interchange18 {
+left: 340%;
+}
+#nrLogo13 {
+left: 340.3%;
+}
+#stn66Name {
+left: 337.3%;
+}
+#londonUnderground12 {
+top: 40%;
+left: 337.1%;
+}
+#nonInterchange49 {
+left: 350%;
+}
+#stn67Name {
+left: 348.5%;
+}
+#nonInterchange50 {
+left: 360%;
+}
+#stn68Name {
+left: 357.9%;
+}
+#lineEnd3 {
+top: 33%;
+left: 370%;
+}
+#stn69Name {
+left: 367.6%;
+}
+#line2 {
+top: 35%;
+left: 390%;
+width: 15%;
+}
+#interchange19 {
+left: 389.5%;
+}
+#nrLogo14 {
+left: 389.8%;
+}
+#stn70Name {
+left: 388.4%;
+}
+#crossrail1 {
+top: 40%;
+left: 386.6%;
+}
+#interchange20 {
+left: 404.5%;
+}
+#nrLogo15 {
+left: 404.8%;
+}
+#stn71Name {
+left: 402.8%;
+}
+#londonUnderground13 {
+top: 40%;
+left: 401.6%;
+}
+#nonInterchange51 {
+left: 325%;
+}
+#stn72Name {
+left: 322.9%;
+}
+#nonInterchange52 {
+left: 335%;
+}
+#stn73Name {
+left: 332.4%;
+}
+#nonInterchange53 {
+left: 345%;
+}
+#stn74Name {
+left: 342.8%;
+}
+#interchange21 {
+left: 355%;
+}
+#nrLogo16 {
+left: 355.3%;
+}
+#stn75Name {
+left: 353.9%;
+}
+#crossrail2 {
+top: 118%;
+left: 352.1%;
+}
+#dlr1 {
+top: 127%;
+left: 352.1%;
+}
+#londonUnderground14 {
+top: 136%;
+left: 352.1%;
+}
+#nonInterchange54 {
+top: 150%;
+left: 280.5%;
+}
+#stn76Name {
+top: 147%;
+width: 9%;
+left: 283%;
+}
+#nonInterchange55 {
+top: 160%;
+left: 280.5%;
+}
+#stn77Name {
+top: 157%;
+width: 11%;
+left: 283.1%;
+}
+#nonInterchange56 {
+top: 170%;
+left: 280.5%;
+}
+#stn78Name {
+top: 167%;
+width: 9%;
+left: 283%;
+}
+#interchange22 {
+top: 180%;
+left: 279%;
+}
+#nrLogo17 {
+top: 181%;
+left: 295%;
+}
+#stn79Name {
+top: 178.5%;
+width: 11%;
+left: 282.6%;
+}
+#crossrail3 {
+top: 178.5%;
+left: 261%;
+}
+#londonUnderground15 {
+top: 178.5%;
+left: 269.5%;
+}
+#nonInterchange57 {
+top: 145%;
+left: 300.5%;
+}
+#stn80Name {
+top: 142%;
+width: 11%;
+left: 302.9%;
+}
+#nonInterchange58 {
+top: 155%;
+left: 300.5%;
+}
+#stn81Name {
+top: 152%;
+left: 303.5%;
+}
+#nonInterchange59 {
+top: 165%;
+left: 300.5%;
+}
+#stn82Name {
+top: 162%;
+left: 303.5%;
+}
+#nonInterchange60 {
+top: 175%;
+left: 300.5%;
+}
+#stn83Name {
+top: 172%;
+width: 14%;
+left: 303%;
+}
+#interchange23 {
+top: 190%;
+left: 299.05%;
+}
+#stn84Name {
+top: 188.5%;
+left: 303.5%;
+}
+#crossrail4 {
+top: 188.5%;
+left: 280.5%;
+}
+#londonUnderground16 {
+top: 188.5%;
+left: 289%;
+}
+#interchange24 {
+left: 290%;
+}
+#stn85Name {
+left: 288.6%;
+}
+#dlr2 {
+top: 213%;
+left: 287.1%;
+}
+#nonInterchange61 {
+left: 283%;
+}
+#stn86Name {
+left: 280.6%;
+}
+#nonInterchange62 {
+left: 275%;
+}
+#stn87Name {
+left: 271.9%;
+}
+#interchange25 {
+left: 267%;
+}
+#stn88Name {
+left: 266.2%;
+}
+#londonUnderground17 {
+top: 213%;
+left: 264.1%;
+}
+#nonInterchange63 {
+left: 259%;
+}
+#stn89Name {
+left: 257.6%;
+}
+#interchange26 {
+top: 247%;
+left: 249.1%;
+}
+#nrLogo18 {
+top: 248%;
+left: 262%;
+}
+#stn90Name {
+top: 245.5%;
+width: 8%;
+left: 253%;
+}
+#interchange27 {
+left: 240%;
+}
+#nrLogo19 {
+top: 215%;
+left: 240.3%;
+}
+#stn91Name {
+width: 9%;
+left: 236.9%;
+}
+#nonInterchange64 {
+left: 230%;
+}
+#stn92Name {
+left: 227.9%;
+}
+#nonInterchange65 {
+left: 220%;
+}
+#stn93Name {
+width: 8%;
+left: 216.4%;
+}
+#nonInterchange66 {
+left: 210%;
+}
+#stn94Name {
+left: 208.6%;
+}
+#nonInterchange67 {
+left: 200%;
+}
+#stn95Name {
+left: 197.2%;
+}
+#interchange28 {
+top: 248.2%;
+left: 179.5%;
+}
+#nrLogo20 {
+top: 235%;
+left: 179.8%;
+}
+#stn96Name {
+top: 239%;
+left: 178.9%;
+}
+#nonInterchange68 {
+left: 185%;
+}
+#stn97Name {
+left: 183.5%;
+}
+#nonInterchange69 {
+left: 175%;
+}
+#stn98Name {
+left: 173.1%;
+}
+#interchange29 {
+left: 165%;
+}
+#nrLogo21 {
+top: 215%;
+left: 165.3%;
+}
+#stn99Name {
+left: 163.6%;
+}
+#interchange30 {
+left: 154.5%;
+}
+#nrLogo22 {
+top: 215%;
+left: 154.8%;
+}
+#stn100Name {
+left: 153.4%;
+}
+#tramlink1 {
+top: 235%;
+left: 151.6%;
+}
+#nonInterchange70 {
+left: 245%;
+}
+#stn101Name {
+width: 11%;
+left: 239.8%;
+}
+#interchange31 {
+left: 235%;
+}
+#nrLogo23 {
+left: 235.3%;
+}
+#stn102Name {
+width: 12%;
+left: 230.3%;
+}
+#interchange32 {
+left: 225%;
+}
+#nrLogo24 {
+left: 225.3%;
+}
+#stn103Name {
+left: 223.7%;
+}
+#nonInterchange71 {
+left: 215%;
+}
+#stn104Name {
+left: 212.7%;
+}
+#interchange33 {
+left: 205%;
+}
+#nrLogo25 {
+left: 205.3%;
+}
+#stn105Name {
+left: 204.4%;
+}
+#londonUnderground18 {
+top: 213%;
+left: 202.1%;
+}
+#nonInterchange72 {
+left: 195%;
+}
+#stn106Name {
+width: 8%;
+left: 191.4%;
+}
+#nonInterchange73 {
+left: 185%;
+}
+#stn107Name {
+left: 181.8%;
+}
+#interchange34 {
+left: 175%;
+}
+#nrLogo26 {
+left: 175.3%;
+}
+#stn108Name {
+left: 173.7%;
+}
+#nonInterchange74 {
+left: 165%;
+}
+#stn109Name {
+left: 162.9%;
+}
+#interchange35 {
+top: 180%;
+left: 151.1%;
+}
+#stn110Name {
+top: 178.5%;
+width: 11%;
+left: 138.5%;
+}
+#londonUnderground19 {
+top: 178.5%;
+left: 156%;
+}
+#interchange36 {
+top: 165%;
+left: 151.1%;
+}
+#stn111Name {
+top: 163.5%;
+width: 14%;
+left: 135.8%;
+}
+#londonUnderground20 {
+top: 163.5%;
+left: 156%;
+}
+#interchange37 {
+top: 150%;
+left: 151.1%;
+}
+#nrLogo27 {
+top: 150.7%;
+left: 134%;
+}
+#stn112Name {
+top: 148.5%;
+width: 14%;
+left: 137.2%;
+}
+#londonUnderground21 {
+top: 148.5%;
+left: 156%;
+}
+#exitLink1 {
+top: 70%;
+left: 30%;
+}
+#exitLink2 {
+top: 170%;
+left: 195%;
+}
+#exitLink3 {
+top: 80%;
+left: 205%;
+}
+#exitLink4 {
+top: 30%;
+left: 302%;
+}
+#exitLink5 {
+top: 160%;
+left: 325%;
+}
+#linkDot1 {
+top: 30%;
+left: 140%;
+}
+#linkDot2 {
+top: 90%;
+left: 130%;
+}
+#linkDot3 {
+top: 90%;
+left: 180%;
+}
+#linkDot4 {
+top: 20%;
+left: 295%;
+}
+#linkDot5 {
+top: 20%;
+left: 410%;
+}
+#linkDot6 {
+top: 170%;
+left: 240%;
+}

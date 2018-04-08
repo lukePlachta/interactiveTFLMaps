@@ -1,0 +1,242 @@
+.lineCurve {
+position: absolute;
+border: 1.2em solid #f49842;
+-webkit-box-sizing: 50%;
+-moz-box-sizing: 50%;
+-khtml-border-radius: 50%;
+overflow: hidden;
+}
+#lineCurve1 {
+width: 130%;
+height: 50%; /* as the half of the width */
+border-top-right-radius: 100px;
+border-left: 0;
+border-bottom: 0;
+top: 53%;
+left: 5%;
+}
+#lineCurve2 {
+width: 10%;
+height: 10%; /* as the half of the width */
+border-bottom-left-radius: 100px;
+border-top: 0;
+border-right: 0;
+top: 103%;
+left: 135%;
+}
+#lineCurve3 {
+width: 10%;
+height: 15%; /* as the half of the width */
+border-top-right-radius: 50px;
+border-left: 0;
+border-bottom: 0;
+top: 113%;
+left: 150%;
+}
+#lineCurve4 {
+width: 50%;
+height: 15%; /* as the half of the width */
+border-bottom-left-radius: 100px;
+border-top: 0;
+border-right: 0;
+top: 128%;
+left: 160%;
+}
+#lineCurve5 {
+width: 10%;
+height: 25%; /* as the half of the width */
+border-bottom-right-radius: 100px;
+border-left: 0;
+border-top: 0;
+top: 88%;
+left: 230%;
+}
+#lineCurve6 {
+width: 135%;
+height: 25%; /* as the half of the width */
+border-top-left-radius: 100px;
+border-bottom: 0;
+border-right: 0;
+top: 62%;
+left: 240%;
+}
+#lineCurve7 {
+width: 5%;
+height: 10%; /* as the half of the width */
+border-bottom-right-radius: 50px;
+border-top: 0;
+border-left: 0;
+top: 103%;
+left: 315%;
+}
+#lineCurve8 {
+width: 25%;
+height: 10%; /* as the half of the width */
+border-top-right-radius: 50px;
+border-bottom: 0;
+border-left: 0;
+top: 91.5%;
+left: 295%;
+}
+#lineCurve9 {
+width: 5%;
+height: 10%; /* as the half of the width */
+border-top-left-radius: 50px;
+border-bottom: 0;
+border-right: 0;
+top: 91.5%;
+left: 320%;
+}
+#lineCurve10 {
+width: 8%;
+height: 27.3%; /* as the half of the width */
+border-bottom-left-radius: 100px;
+border-top: 0;
+border-right: 0;
+top: 64.2%;
+left: 287%;
+}
+#lineCurve11 {
+width: 82%;
+height: 24.8%; /* as the half of the width */
+border-top-right-radius: 50px;
+border-left: 0;
+border-bottom: 0;
+top: 35%;
+left: 205%;
+}
+#lineCurve12 {
+width: 5%;
+height: 10%; /* as the half of the width */
+border-top-left-radius: 100px;
+border-right: 0;
+border-bottom: 0;
+top: 35%;
+left: 240%;
+}
+#lineCurve13 {
+width: 20%;
+height: 10%; /* as the half of the width */
+border-bottom-right-radius: 100px;
+border-top: 0;
+border-left: 0;
+top: 45%;
+left: 220%;
+}
+#lineCurve14 {
+width: 5%;
+height: 27.3%; /* as the half of the width */
+border-bottom-right-radius: 50px;
+border-top: 0;
+border-left: 0;
+top: 64.2%;
+left: 325%;
+}
+#lineCurve15 {
+width: 40%;
+height: 24.8%; /* as the half of the width */
+border-top-left-radius: 100px;
+border-right: 0;
+border-bottom: 0;
+top: 35%;
+left: 330%;
+}
+#lineCurve16 {
+width: 10%;
+height: 10%; /* as the half of the width */
+border-top-right-radius: 100px;
+border-left: 0;
+border-bottom: 0;
+top: 113%;
+left: 290%;
+}
+#lineCurve17 {
+width: 10%;
+height: 85%; /* as the half of the width */
+border-top-left-radius: 100px;
+border-right: 0;
+border-bottom: 0;
+top: 113%;
+left: 300%;
+}
+#lineCurve18 {
+width: 10%;
+height: 10%; /* as the half of the width */
+border-bottom-right-radius: 100px;
+border-top: 0;
+border-left: 0;
+top: 125%;
+left: 290%;
+}
+#lineCurve19 {
+width: 10%;
+height: 45%; /* as the half of the width */
+border-top-left-radius: 100px;
+border-right: 0;
+border-bottom: 0;
+top: 135%;
+left: 280%;
+}
+#lineCurve20 {
+width: 138%;
+height: 10%; /* as the half of the width */
+border-bottom-right-radius: 100px;
+border-top: 0;
+border-left: 0;
+top: 198%;
+left: 162%;
+}
+#lineCurve21 {
+width: 5%;
+height: 40%; /* as the half of the width */
+border-top-left-radius: 100px;
+border-right: 0;
+border-bottom: 0;
+top: 208%;
+left: 250%;
+}
+#lineCurve22 {
+width: 95%;
+height: 10%; /* as the half of the width */
+border-bottom-right-radius: 100px;
+border-top: 0;
+border-left: 0;
+top: 220%;
+left: 155%;
+}
+#lineCurve23 {
+width: 10%;
+height: 10%; /* as the half of the width */
+border-top-left-radius: 100px;
+border-right: 0;
+border-bottom: 0;
+top: 230%;
+left: 190%;
+}
+#lineCurve24 {
+width: 10%;
+height: 10%; /* as the half of the width */
+border-bottom-right-radius: 100px;
+border-top: 0;
+border-left: 0;
+top: 240%;
+left: 180%;
+}
+#lineCurve25 {
+width: 10%;
+height: 50%; /* as the half of the width */
+border-bottom-left-radius: 100px;
+border-top: 0;
+border-right: 0;
+top: 158%;
+left: 152%;
+}
+#lineCurve26 {
+width: 10%;
+height: 45%; /* as the half of the width */
+border-top-left-radius: 50px;
+border-bottom: 0;
+border-right: 0;
+top: 113%;
+left: 152%;
+}
