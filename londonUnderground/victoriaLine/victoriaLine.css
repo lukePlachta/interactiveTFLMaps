@@ -1,0 +1,231 @@
+.heading {
+background-color: #42cef4;
+color: black;
+width: 160%;
+}
+.line {
+background-color: #42cef4;
+width: 151%;
+left: 5%;
+}
+.nonInterchange {
+background-color: #42cef4;
+}
+#interchange1 {
+left: 4.5%;
+}
+#nrLogo1 {
+left: 4.8%;
+}
+#stn1Name {
+left: 1.8%;
+}
+#londonOverground1 {
+top: 68%;
+left: 1.6%;
+}
+#interchange2 {
+left: 15%;
+}
+#stn2Name {
+left: 13.2%;
+}
+#londonOverground2 {
+top: 68%;
+left: 12.1%;
+}
+#interchange3 {
+left: 25%;
+}
+#nrLogo2 {
+left: 25.3%;
+}
+#stn3Name {
+left: 23.4%;
+}
+#interchange4 {
+left: 35%;
+}
+#nrLogo3 {
+left: 35.3%;
+}
+#stn4Name {
+left: 34.6%;
+}
+#londonOverground3 {
+top: 68%;
+left: 32.1%;
+}
+#interchange5 {
+left: 45%;
+}
+#nrLogo4 {
+left: 45.3%;
+}
+#stn5Name {
+left: 44%;
+}
+#piccadilly1 {
+top: 68%;
+left: 42.6%;
+}
+#interchange6 {
+left: 55%;
+}
+#nrLogo5 {
+left: 55.3%;
+}
+#stn6Name {
+left: 53.3%;
+}
+#londonOverground4 {
+top: 68%;
+left: 52.1%;
+}
+#interchange7 {
+left: 65%;
+}
+#nrLogo6 {
+left: 65.3%;
+}
+#stn7Name {
+left: 63%;
+}
+#circle1 {
+top: 68%;
+left: 62.6%;
+}
+#hsmith1 {
+top: 71%;
+left: 62.6%;
+}
+#metropolitan1 {
+top: 77%;
+left: 62.6%;
+}
+#northern1 {
+top: 80%;
+left: 62.6%;
+}
+#piccadilly2 {
+top: 83%;
+left: 62.6%;
+}
+#interchange8 {
+left: 75%;
+}
+#nrLogo7 {
+left: 75.3%;
+}
+#stn8Name {
+left: 74.4%;
+}
+#northern2 {
+top: 68%;
+left: 72.6%;
+}
+#londonOverground5 {
+top: 71%;
+left: 72.1%;
+}
+#interchange9 {
+left: 85%;
+}
+#stn9Name {
+left: 84.2%;
+}
+#northern3 {
+top: 68%;
+left: 82.6%;
+}
+#interchange10 {
+left: 95%;
+}
+#stn10Name {
+left: 94.4%;
+}
+#bakerloo1 {
+top: 68%;
+left: 92.6%;
+}
+#central1 {
+top: 71%;
+left: 92.6%;
+}
+#interchange11 {
+left: 105%;
+}
+#stn11Name {
+left: 104.7%;
+}
+#jubilee1 {
+top: 68%;
+left: 102.6%;
+}
+#piccadilly3 {
+top: 71%;
+left: 102.6%;
+}
+#interchange12 {
+left: 115%;
+}
+#nrLogo8 {
+left: 115.3%;
+}
+#stn12Name {
+left: 114.2%;
+}
+#circle2 {
+top: 68%;
+left: 112.6%;
+}
+#district1 {
+top: 71%;
+left: 112.6%;
+}
+#nonInterchange1 {
+left: 125%;
+}
+#stn13Name {
+left: 123.3%;
+}
+#interchange13 {
+left: 135%;
+}
+#nrLogo9 {
+left: 135.3%;
+}
+#stn14Name {
+left: 133.8%;
+}
+#interchange14 {
+left: 145%;
+}
+#stn15Name {
+left: 143.6%;
+}
+#northern4 {
+top: 68%;
+left: 142.6%;
+}
+#interchange15 {
+left: 155%;
+}
+#nrLogo10 {
+left: 155.3%;
+}
+#stn16Name {
+left: 154.4%;
+}
+#londonOverground6 {
+top: 68%;
+left: 152.1%;
+}
+#exitLink1 {
+top: 20%;
+left: 2%;
+}
+#exitLink2 {
+top: 20%;
+left: 145%;
+}

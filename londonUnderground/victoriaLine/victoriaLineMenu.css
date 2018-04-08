@@ -1,0 +1,76 @@
+.heading {
+background-color: #42cef4;
+color: black;
+}
+.stationLinks {
+background-color: #42cef4;
+color: black;
+}
+#victoriaLineStation1 {
+top: 38%;
+left: 20%;
+}
+#victoriaLineStation2 {
+top: 38%;
+left: 35%;
+}
+#victoriaLineStation3 {
+top: 38%;
+left: 50%;
+}
+#victoriaLineStation4 {
+top: 38%;
+left: 65%;
+}
+#victoriaLineStation5 {
+top: 44%;
+left: 20%;
+}
+#victoriaLineStation6 {
+top: 44%;
+left: 35%;
+}
+#victoriaLineStation7 {
+top: 44%;
+left: 50%;
+}
+#victoriaLineStation8 {
+top: 44%;
+left: 65%;
+}
+#victoriaLineStation9 {
+top: 50%;
+left: 20%;
+}
+#victoriaLineStation10 {
+top: 50%;
+left: 35%;
+}
+#victoriaLineStation11 {
+top: 50%;
+left: 50%;
+}
+#victoriaLineStation12 {
+top: 50%;
+left: 65%;
+}
+#victoriaLineStation13 {
+top: 56%;
+left: 20%;
+}
+#victoriaLineStation14 {
+top: 56%;
+left: 35%;
+}
+#victoriaLineStation15 {
+top: 56%;
+left: 50%;
+}
+#victoriaLineStation16 {
+top: 56%;
+left: 65%;
+}
+#exitLink1 {
+top: 80%;
+left: 42%;
+}
