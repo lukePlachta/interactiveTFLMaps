@@ -1,0 +1,167 @@
+.heading {
+background-color: purple;
+color: white;
+}
+.stationLinks {
+background-color: purple;
+color: white;
+}
+#metropolitanLineStation1 {
+top: 29%;
+left: 12.5%;
+}
+#metropolitanLineStation2 {
+top: 29%;
+left: 27.5%;
+}
+#metropolitanLineStation3 {
+top: 29%;
+left: 42.5%;
+}
+#metropolitanLineStation4 {
+top: 29%;
+left: 57.5%;
+}
+#metropolitanLineStation5 {
+top: 29%;
+left: 72.5%;
+}
+#metropolitanLineStation6 {
+top: 35%;
+left: 12.5%;
+}
+#metropolitanLineStation7 {
+top: 35%;
+left: 27.5%;
+}
+#metropolitanLineStation8 {
+top: 35%;
+left: 42.5%;
+}
+#metropolitanLineStation9 {
+top: 35%;
+left: 57.5%;
+}
+#metropolitanLineStation10 {
+top: 35%;
+left: 72.5%;
+}
+#metropolitanLineStation11 {
+top: 41%;
+left: 12.5%;
+}
+#metropolitanLineStation12 {
+top: 41%;
+left: 27.5%;
+}
+#metropolitanLineStation13 {
+top: 41%;
+left: 42.5%;
+}
+#metropolitanLineStation14 {
+top: 41%;
+left: 57.5%;
+}
+#metropolitanLineStation15 {
+top: 41%;
+left: 72.5%;
+}
+#metropolitanLineStation16 {
+top: 47%;
+left: 12.5%;
+}
+#metropolitanLineStation17 {
+top: 47%;
+left: 27.5%;
+}
+#metropolitanLineStation18 {
+top: 47%;
+left: 42.5%;
+}
+#metropolitanLineStation19 {
+top: 47%;
+left: 57.5%;
+}
+#metropolitanLineStation20 {
+top: 47%;
+left: 72.5%;
+}
+#metropolitanLineStation21 {
+top: 53%;
+left: 12.5%;
+}
+#metropolitanLineStation22 {
+top: 53%;
+left: 27.5%;
+}
+#metropolitanLineStation23 {
+top: 53%;
+left: 42.5%;
+}
+#metropolitanLineStation24 {
+top: 53%;
+left: 57.5%;
+}
+#metropolitanLineStation25 {
+top: 53%;
+left: 72.5%;
+}
+#metropolitanLineStation26 {
+top: 59%;
+left: 12.5%;
+}
+#metropolitanLineStation27 {
+top: 59%;
+left: 27.5%;
+}
+#metropolitanLineStation28 {
+top: 59%;
+left: 42.5%;
+}
+#metropolitanLineStation29 {
+top: 59%;
+left: 57.5%;
+}
+#metropolitanLineStation30 {
+top: 59%;
+left: 72.5%;
+}
+#metropolitanLineStation31 {
+top: 65.1%;
+left: 12.5%;
+}
+#metropolitanLineStation32 {
+top: 65.1%;
+left: 27.5%;
+}
+#metropolitanLineStation33 {
+top: 65.1%;
+left: 42.5%;
+}
+#metropolitanLineStation34 {
+top: 65.1%;
+left: 57.5%;
+width: 14.95%;
+}
+#exitLink1 {
+top: 85%;
+left: 42%;
+}
+@media only screen and (max-width: 1366px) {
+#metropolitanLineStation34 {
+width: 14.9%;
+}
+@media only screen and (max-width: 1152px) {
+#metropolitanLineStation31 {
+top: 65.15%;
+}
+#metropolitanLineStation32 {
+top: 65.15%;
+}
+#metropolitanLineStation33 {
+top: 65.15%;
+}
+#metropolitanLineStation34 {
+top: 65.15%;
+}
+}

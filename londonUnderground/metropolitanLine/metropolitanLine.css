@@ -1,0 +1,368 @@
+.heading {
+background-color: purple;
+color: white;
+width: 260%;
+}
+.lineEnd {
+background-color: purple;
+}
+.nonInterchange {
+background-color: purple;
+}
+.amershamBranchStnsTopPosition {
+top: 48.3%;
+}
+.amershamBranchStnsOneLine {
+top: 42%;
+}
+.amershamBranchStnsTwoLines {
+top: 39%;
+}
+.uxbridgeBranchStnsTopPosition {
+top: 88.3%;
+}
+.uxbridgeBranchStnsOneLine {
+top: 82%;
+}
+.uxbridgeBranchStnsTwoLines {
+top: 79%;
+}
+.harrowToAldgateRouteStnsTopPosition {
+top: 68.3%;
+}
+.harrowToAldgateRouteStnsOneLine {
+top: 62%;
+}
+.harrowToAldgateRouteStnsTwoLines {
+top: 59%;
+}
+.harrowToAldateRouteNrLogo {
+top: 55%;
+}
+#interchange1 {
+left: 4.5%;
+}
+#nrLogo1 {
+top: 35%;
+left: 4.8%;
+}
+#stn1Name {
+left: 2.8%;
+}
+#lineEnd1 {
+top: 28%;
+left: 4.5%;
+}
+#stn2Name {
+top: 22%;
+left: 2.2%;
+}
+#interchange2 {
+left: 25%;
+}
+#nrLogo2 {
+top: 35%;
+left: 25.3%;
+}
+#stn3Name {
+left: 23.5%;
+}
+#nonInterchange1 {
+left: 35%;
+}
+#stn4Name {
+left: 31.5%;
+}
+#interchange3 {
+left: 45%;
+}
+#nrLogo3 {
+top: 35%;
+left: 45.3%;
+}
+#stn5Name {
+left: 41.8%;
+}
+#nonInterchange2 {
+top: 35%;
+left: 55.6%;
+}
+#stn6Name {
+top: 32%;
+left: 59%;
+}
+#lineEnd2 {
+top: 25%;
+left: 53.5%;
+}
+#stn7Name {
+top: 21.8%;
+left: 59%;
+}
+#nonInterchange3 {
+left: 65%;
+}
+#stn8Name {
+left: 63.9%;
+}
+#nonInterchange4 {
+left: 75%;
+}
+#stn9Name {
+left: 72.1%;
+}
+#nonInterchange5 {
+left: 85%;
+}
+#stn10Name {
+left: 82.1%;
+}
+#nonInterchange6 {
+left: 95%;
+}
+#stn11Name {
+left: 93.5%;
+}
+#nonInterchange7 {
+left: 105%;
+}
+#stn12Name {
+left: 103.3%;
+}
+#nonInterchange8 {
+left: 105%;
+}
+#stn13Name {
+left: 103.3%;
+}
+#interchange4 {
+left: 95%;
+}
+#stn14Name {
+left: 94.1%;
+}
+#piccadilly1 {
+top: 95%;
+left: 92.6%;
+}
+#nonInterchange9 {
+left: 85%;
+}
+#stn15Name {
+left: 83%;
+}
+#nonInterchange10 {
+left: 75%;
+}
+#stn16Name {
+left: 73.6%;
+}
+#nonInterchange11 {
+left: 65%;
+}
+#stn17Name {
+left: 63.6%;
+}
+#nonInterchange12 {
+left: 55%;
+}
+#stn18Name {
+left: 52.6%;
+}
+#nonInterchange13 {
+left: 45%;
+}
+#stn19Name {
+left: 42.5%;
+}
+#interchange5 {
+left: 34.5%;
+}
+#stn20Name {
+left: 33.2%;
+}
+#piccadilly2 {
+top: 95%;
+left: 32.1%;
+}
+#interchange6 {
+left: 125%;
+}
+#nrLogo4 {
+left: 125.3%;
+}
+#stn21Name {
+width: 8%;
+left: 122.4%;
+}
+#nonInterchange14 {
+left: 135%;
+}
+#stn22Name {
+left: 132.5%;
+}
+#nonInterchange15 {
+left: 145%;
+}
+#stn23Name {
+left: 143.2%;
+}
+#interchange7 {
+left: 155%;
+}
+#stn24Name {
+left: 153.6%;
+}
+#jubilee1 {
+top: 75%;
+left: 152.6%;
+}
+#interchange8 {
+left: 165%;
+}
+#stn25Name {
+left: 164%;
+}
+#jubilee2 {
+top: 75%;
+left: 162.6%;
+}
+#interchange9 {
+left: 175%;
+}
+#stn26Name {
+left: 174.7%;
+}
+#bakerloo1 {
+top: 75%;
+left: 172.6%;
+}
+#circle1 {
+top: 78%;
+left: 172.6%;
+}
+#hsmith1 {
+top: 81%;
+left: 172.6%;
+}
+#jubilee3 {
+top: 87%;
+left: 172.6%;
+}
+#nonInterchange16 {
+left: 185%;
+}
+#stn27Name {
+top: 56%;
+left: 182.9%;
+}
+#interchange10 {
+left: 195%;
+}
+#nrLogo5 {
+left: 195.3%;
+}
+#stn28Name {
+left: 194.3%;
+}
+#interchange11 {
+left: 205%;
+}
+#nrLogo6 {
+left: 205.3%;
+}
+#stn29Name {
+width: 10%;
+left: 201.3%;
+}
+#northern1 {
+top: 75%;
+left: 202.6%;
+}
+#piccadilly3 {
+top: 78%;
+left: 202.6%;
+}
+#victoria1 {
+top: 81%;
+left: 202.6%;
+}
+#interchange12 {
+left: 215%;
+}
+#nrLogo7 {
+left: 215.3%;
+}
+#stn30Name {
+left: 213.4%;
+}
+#crossrail1 {
+top: 75%;
+left: 212.1%;
+}
+#nonInterchange17 {
+left: 225%;
+}
+#stn31Name {
+left: 222.9%;
+}
+#interchange13 {
+left: 235%;
+}
+#nrLogo8 {
+left: 235.3%;
+}
+#stn32Name {
+left: 233.6%;
+}
+#northern2 {
+top: 75%;
+left: 232.6%;
+}
+#interchange14 {
+left: 245%;
+}
+#nrLogo9 {
+left: 245.3%;
+}
+#stn33Name {
+left: 243.7%;
+}
+#central1 {
+top: 75%;
+left: 242.6%;
+}
+#crossrail2 {
+top: 78%;
+left: 242.1%;
+}
+#hsmith2 {
+top: 87%;
+left: 242.6%;
+}
+#londonOverground1 {
+top: 93%;
+left: 242.1%;
+}
+#interchange15 {
+left: 255%;
+}
+#stn34Name {
+left: 254%;
+}
+#circle2 {
+top: 75%;
+left: 252.6%;
+}
+#exitLink1 {
+top: 70%;
+left: 10%;
+}
+#exitLink2 {
+top: 25%;
+left: 120%;
+}
+#exitLink3 {
+top: 25%;
+left: 240%;
+}
