@@ -1,0 +1,209 @@
+.heading {
+background: #00b377;
+color: white;
+}
+.stationLinks {
+background: #00b377;
+color: white;
+}
+#dlrStation1 {
+top: 23%;
+left: 12.5%;
+}
+#dlrStation2 {
+top: 23%;
+left: 27.5%;
+}
+#dlrStation3 {
+top: 23%;
+left: 42.5%;
+}
+#dlrStation4 {
+top: 23%;
+left: 57.5%;
+}
+#dlrStation5 {
+top: 23%;
+left: 72.5%;
+}
+#dlrStation6 {
+top: 29%;
+left: 12.5%;
+}
+#dlrStation7 {
+top: 29%;
+left: 27.5%;
+}
+#dlrStation8 {
+top: 29%;
+left: 42.5%;
+}
+#dlrStation9 {
+top: 29%;
+left: 57.5%;
+}
+#dlrStation10 {
+top: 29%;
+left: 72.5%;
+}
+#dlrStation11 {
+top: 35%;
+left: 12.5%;
+}
+#dlrStation12 {
+top: 35%;
+left: 27.5%;
+}
+#dlrStation13 {
+top: 35%;
+left: 42.5%;
+}
+#dlrStation14 {
+top: 35%;
+left: 57.5%;
+}
+#dlrStation15 {
+top: 35%;
+left: 72.5%;
+}
+#dlrStation16 {
+top: 41%;
+left: 12.5%;
+}
+#dlrStation17 {
+top: 41%;
+left: 27.5%;
+}
+#dlrStation18 {
+top: 41%;
+left: 42.5%;
+}
+#dlrStation19 {
+top: 41%;
+left: 57.5%;
+}
+#dlrStation20 {
+top: 41%;
+left: 72.5%;
+}
+#dlrStation21 {
+top: 47%;
+left: 12.5%;
+}
+#dlrStation22 {
+top: 47%;
+left: 27.5%;
+}
+#dlrStation23 {
+top: 47%;
+left: 42.5%;
+}
+#dlrStation24 {
+top: 47%;
+left: 57.5%;
+}
+#dlrStation25 {
+top: 47%;
+left: 72.5%;
+}
+#dlrStation26 {
+top: 53%;
+left: 12.5%;
+}
+#dlrStation27 {
+top: 53%;
+left: 27.5%;
+}
+#dlrStation28 {
+top: 53%;
+left: 42.5%;
+}
+#dlrStation29 {
+top: 53%;
+left: 57.5%;
+}
+#dlrStation30 {
+top: 53%;
+left: 72.5%;
+}
+#dlrStation31 {
+top: 59%;
+left: 12.5%;
+}
+#dlrStation32 {
+top: 59%;
+left: 27.5%;
+}
+#dlrStation33 {
+top: 59%;
+left: 42.5%;
+}
+#dlrStation34 {
+top: 59%;
+left: 57.5%;
+}
+#dlrStation35 {
+top: 59%;
+left: 72.5%;
+}
+#dlrStation36 {
+top: 65%;
+left: 12.5%;
+}
+#dlrStation37 {
+top: 65%;
+left: 27.5%;
+}
+#dlrStation38 {
+top: 65%;
+left: 42.5%;
+}
+#dlrStation39 {
+top: 65%;
+left: 57.5%;
+}
+#dlrStation40 {
+top: 65%;
+left: 72.5%;
+}
+#dlrStation41 {
+top: 71.1%;
+left: 12.5%;
+}
+#dlrStation42 {
+top: 71.1%;
+left: 27.5%;
+}
+#dlrStation43 {
+top: 71.1%;
+left: 42.5%;
+}
+#dlrStation44 {
+top: 71.1%;
+left: 57.5%;
+width: 14.95%;
+}
+#exitLink1 {
+top: 85%;
+left: 42%;
+}
+@media only screen and (max-width: 1366px) {
+#dlrStation44 {
+width: 14.9%;
+}
+}
+@media only screen and (max-width: 800px) {
+#dlrStation41 {
+top: 71.2%;
+}
+#dlrStation42 {
+top: 71.2%;
+}
+#dlrStation43 {
+top: 71.2%;
+}
+#dlrStation44 {
+top: 71.2%;
+}
+}
+}

@@ -1,0 +1,116 @@
+.lineCurve {
+position: absolute;
+-webkit-box-sizing: 50%;
+-moz-box-sizing: 50%;
+-khtml-border-radius: 50%;
+border: 1.2em solid #00b377;
+overflow: hidden;
+}
+#lineCurve1 {
+width: 5%;
+height: 5%; /* as the half of the width */
+border-top-right-radius: 50px;
+border-left: 0;
+border-bottom: 0;
+top: 75%;
+left: 6%;
+}
+#lineCurve2 {
+width: 5%;
+height: 5%; /* as the half of the width */
+border-bottom-left-radius: 50px;
+border-top: 0;
+border-right: 0;
+top: 81.5%;
+left: 11.05%;
+}
+#lineCurve3 {
+width: 130%;
+height: 5%; /* as the half of the width */
+border-top-left-radius: 50px;
+border-right: 0;
+border-bottom: 0;
+top: 86.5%;
+left: 11.05%;
+}
+#lineCurve4 {
+width: 5%;
+height: 5%; /* as the half of the width */
+border-bottom-right-radius: 50px;
+border-top: 0;
+border-left: 0;
+top: 93%;
+left: 6%;
+}
+#lineCurve5 {
+width: 10%;
+height: 10%; /* as the half of the width */
+border-top-right-radius: 100px;
+border-bottom: 0;
+border-left: 0;
+top: 86.5%;
+left: 45%;
+}
+#lineCurve6 {
+width: 120%;
+height: 15%; /* as the half of the width */
+border-bottom-left-radius: 100px;
+border-top: 0;
+border-right: 0;
+top: 96.5%;
+left: 55%;
+}
+#lineCurve7 {
+width: 5%;
+height: 15%; /* as the half of the width */
+border-bottom-right-radius: 50px;
+border-top: 0;
+border-left: 0;
+top: 71.5%;
+left: 88%;
+}
+#lineCurve8 {
+width: 77%;
+height: 15%; /* as the half of the width */
+border-top-left-radius: 50px;
+border-bottom: 0;
+border-right: 0;
+top: 56.5%;
+left: 93%;
+}
+#lineCurve9 {
+width: 57%;
+height: 40%; /* as the half of the width */
+border-top-right-radius: 100px;
+border-bottom: 0;
+border-left: 0;
+top: 35%;
+left: 20%;
+}
+#lineCurve10 {
+width: 5%;
+height: 11.5%; /* as the half of the width */
+border-bottom-left-radius: 100px;
+border-top: 0;
+border-right: 0;
+top: 75%;
+left: 77%;
+}
+#lineCurve11 {
+width: 5%;
+height: 40%; /* as the half of the width */
+border-top-right-radius: 50px;
+border-bottom: 0;
+border-left: 0;
+top: 35%;
+left: 35%;
+}
+#lineCurve12 {
+width: 5%;
+height: 11.5%; /* as the half of the width */
+border-bottom-left-radius: 50px;
+border-top: 0;
+border-right: 0;
+top: 75%;
+left: 40%;
+}
