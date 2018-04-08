@@ -1,0 +1,502 @@
+.heading {
+background-color: darkblue;
+color: white;
+width: 435%;
+}
+.lineEnd {
+background-color: darkblue;
+}
+.nonInterchange {
+background-color: darkblue;
+}
+.uxbridgeBranchStnsTopPosition {
+top: 33.3%;
+}
+.uxbridgeBranchStnsOneLine {
+top: 27%;
+}
+.uxbridgeBranchStnsTwoLines {
+top: 24%;
+}
+.heathrowBranchStnsTopPosition {
+top: 83.3%;
+}
+.heathrowBranchStnsOneLine {
+top: 77%;
+}
+.heathrowBranchStnsTwoLines {
+top: 74%;
+}
+.actonTownToCockfostersStnsTopPosition {
+top: 53.3%;
+}
+.actonTownToCockfostersStnsOneLine {
+top: 47%;
+}
+.actonTownToCockfostersStnsTwoLines {
+top: 44%;
+}
+#interchange1 {
+left: 4.5%;
+}
+#stn1Name {
+left: 3.2%;
+}
+#metropolitan1 {
+top: 40%;
+left: 2.1%;
+}
+#nonInterchange1 {
+left: 15%;
+}
+#stn2Name {
+left: 12.5%;
+}
+#nonInterchange2 {
+left: 25%;
+}
+#stn3Name {
+left: 22.6%;
+}
+#nonInterchange3 {
+left: 35%;
+}
+#stn4Name {
+left: 33.5%;
+}
+#nonInterchange4 {
+left: 45%;
+}
+#stn5Name {
+left: 43.5%;
+}
+#nonInterchange5 {
+left: 55%;
+}
+#stn6Name {
+left: 52.8%;
+}
+#interchange2 {
+left: 65%;
+}
+#stn7Name {
+left: 64.1%;
+}
+#metropolitan2 {
+top: 40%;
+left: 62.6%;
+}
+#nonInterchange6 {
+left: 75%;
+}
+#stn8Name {
+left: 73.3%;
+}
+#interchange3 {
+left: 85%;
+}
+#nrLogo1 {
+top: 20%;
+left: 85.3%;
+}
+#stn9Name {
+left: 84%;
+}
+#nonInterchange7 {
+left: 95%;
+}
+#stn10Name {
+left: 92.9%;
+}
+#nonInterchange8 {
+left: 105%;
+}
+#stn11Name {
+left: 102.9%;
+}
+#nonInterchange9 {
+left: 115%;
+}
+#stn12Name {
+left: 113.8%;
+}
+#nonInterchange10 {
+left: 125%;
+}
+#stn13Name {
+left: 123.6%;
+}
+#interchange4 {
+left: 135%;
+}
+#stn14Name {
+left: 133.7%;
+}
+#district1 {
+top: 40%;
+left: 132.6%;
+}
+#nonInterchange11 {
+left: 135%;
+}
+#stn15Name {
+left: 133.6%;
+}
+#nonInterchange12 {
+left: 125%;
+}
+#stn16Name {
+left: 122.1%;
+}
+#nonInterchange13 {
+left: 115%;
+}
+#stn17Name {
+left: 113.3%;
+}
+#nonInterchange14 {
+left: 105%;
+}
+#stn18Name {
+left: 102.9%;
+}
+#nonInterchange15 {
+left: 95%;
+}
+#stn19Name {
+left: 92.5%;
+}
+#nonInterchange16 {
+left: 85%;
+}
+#stn20Name {
+left: 82.4%;
+}
+#nonInterchange17 {
+left: 75%;
+}
+#stn21Name {
+left: 72.5%;
+}
+#nonInterchange18 {
+left: 65%;
+}
+#stn22Name {
+left: 63.4%;
+}
+#interchange5 {
+left: 45%;
+}
+#nrLogo2 {
+top: 70%;
+left: 45.3%;
+}
+#stn23Name {
+left: 43.3%;
+}
+#crossrail1 {
+top: 90%;
+left: 42.1%;
+}
+#interchange6 {
+top: 53.3%;
+left: 45%;
+}
+#nrLogo3 {
+top: 40%;
+left: 45.3%;
+}
+#stn24Name {
+top: 44%;
+left: 41.4%;
+}
+#crossrail2 {
+top: 60%;
+left: 42.1%;
+}
+#lineEnd1 {
+top: 83%;
+left: 25%;
+}
+#stn25Name {
+left: 22.4%;
+}
+#interchange7 {
+left: 160%;
+}
+#stn26Name {
+left: 159.7%;
+}
+#district2 {
+top: 60%;
+left: 157.6%;
+}
+#interchange8 {
+left: 170%;
+}
+#stn27Name {
+left: 168.9%;
+}
+#district3 {
+top: 60%;
+left: 167.6%;
+}
+#interchange9 {
+left: 180%;
+}
+#stn28Name {
+left: 177.2%;
+}
+#circle1 {
+top: 60%;
+left: 177.6%;
+}
+#district4 {
+top: 63%;
+left: 177.6%;
+}
+#hsmith1 {
+top: 66%;
+left: 177.6%;
+}
+#interchange10 {
+left: 190%;
+}
+#stn29Name {
+left: 189.4%;
+}
+#district5 {
+top: 60%;
+left: 187.6%;
+}
+#interchange11 {
+left: 200%;
+}
+#stn30Name {
+left: 199.8%;
+}
+#district6 {
+top: 60%;
+left: 197.6%;
+}
+#interchange12 {
+left: 210%;
+}
+#stn31Name {
+left: 208.3%;
+}
+#circle2 {
+top: 60%;
+left: 207.6%;
+}
+#interchange13 {
+left: 220%;
+}
+#stn32Name {
+left: 218.2%;
+}
+#circle3 {
+top: 60%;
+left: 217.6%;
+}
+#district7 {
+top: 63%;
+left: 217.6%;
+}
+#nonInterchange19 {
+left: 230%;
+}
+#stn33Name {
+left: 226.4%;
+}
+#nonInterchange20 {
+left: 240%;
+}
+#stn34Name {
+width: 8%;
+left: 236.3%;
+}
+#interchange14 {
+left: 250%;
+}
+#stn35Name {
+left: 249.6%;
+}
+#jubilee1 {
+top: 60%;
+left: 247.6%;
+}
+#victoria1 {
+top: 63%;
+left: 247.6%;
+}
+#interchange15 {
+left: 260%;
+}
+#stn36Name {
+left: 258.7%;
+}
+#bakerloo1 {
+top: 60%;
+left: 257.6%;
+}
+#interchange16 {
+left: 270%;
+}
+#stn37Name {
+left: 268.7%;
+}
+#northern1 {
+top: 60%;
+left: 267.6%;
+}
+#nonInterchange21 {
+left: 280%;
+}
+#stn38Name {
+left: 278.2%;
+}
+#interchange17 {
+left: 290%;
+}
+#stn39Name {
+left: 289%;
+}
+#central1 {
+top: 60%;
+left: 287.6%;
+}
+#nonInterchange22 {
+left: 300%;
+}
+#stn40Name {
+left: 298.2%;
+}
+#interchange18 {
+left: 310%;
+}
+#nrLogo4 {
+top: 40%;
+left: 310.3%;
+}
+#stn41Name {
+width: 9%;
+left: 306.9%;
+}
+#circle4 {
+top: 60%;
+left: 307.6%;
+}
+#hsmith2 {
+top: 63%;
+left: 307.6%;
+}
+#metropolitan3 {
+top: 69%;
+left: 307.6%;
+}
+#northern2 {
+top: 72%;
+left: 307.6%;
+}
+#victoria2 {
+top: 75%;
+left: 307.6%;
+}
+#nonInterchange23 {
+left: 320%;
+}
+#stn42Name {
+left: 317.1%;
+}
+#nonInterchange24 {
+left: 330%;
+}
+#stn43Name {
+left: 327.7%;
+}
+#nonInterchange25 {
+left: 340%;
+}
+#stn44Name {
+left: 338.2%;
+}
+#interchange19 {
+left: 350%;
+}
+#nrLogo5 {
+top: 40%;
+left: 350.3%;
+}
+#stn45Name {
+left: 349%;
+}
+#victoria3 {
+top: 60%;
+left: 347.6%;
+}
+#nonInterchange26 {
+left: 360%;
+}
+#stn46Name {
+left: 358.5%;
+}
+#nonInterchange27 {
+left: 370%;
+}
+#stn47Name {
+left: 368%;
+}
+#nonInterchange28 {
+left: 380%;
+}
+#stn48Name {
+left: 378.5%;
+}
+#nonInterchange29 {
+left: 390%;
+}
+#stn49Name {
+left: 388.1%;
+}
+#nonInterchange30 {
+left: 400%;
+}
+#stn50Name {
+left: 398.6%;
+}
+#nonInterchange31 {
+left: 410%;
+}
+#stn51Name {
+left: 407.4%;
+}
+#nonInterchange32 {
+left: 420%;
+}
+#stn52Name {
+left: 417.4%;
+}
+#lineEnd2 {
+top: 53%;
+left: 430%;
+}
+#stn53Name {
+left: 426.7%;
+}
+#exitLink1 {
+top: 50%;
+left: 2%;
+}
+#exitLink2 {
+top: 25%;
+left: 155%;
+}
+#exitLink3 {
+top: 25%;
+left: 285%;
+}
+#exitLink4 {
+top: 25%;
+left: 415%; 
+}

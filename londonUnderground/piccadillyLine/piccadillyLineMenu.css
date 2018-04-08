@@ -1,0 +1,264 @@
+.heading {
+background-color: darkblue;
+color: white;
+}
+.stationLinks {
+background-color: darkblue;
+color: white;
+}
+#piccadillyLineStation1 {
+top: 23%;
+left: 5%;
+}
+#piccadillyLineStation2 {
+top: 23%;
+left: 20%;
+}
+#piccadillyLineStation3 {
+top: 23%;
+left: 35%;
+}
+#piccadillyLineStation4 {
+top: 23%;
+left: 50%;
+}
+#piccadillyLineStation5 {
+top: 23%;
+left: 65%;
+}
+#piccadillyLineStation6 {
+top: 23%;
+left: 80%;
+}
+#piccadillyLineStation7 {
+top: 29%;
+left: 5%;
+}
+#piccadillyLineStation8 {
+top: 29%;
+left: 20%;
+}
+#piccadillyLineStation9 {
+top: 29%;
+left: 35%;
+}
+#piccadillyLineStation10 {
+top: 29%;
+left: 50%;
+}
+#piccadillyLineStation11 {
+top: 29%;
+left: 65%;
+}
+#piccadillyLineStation12 {
+top: 29%;
+left: 80%;
+}
+#piccadillyLineStation13 {
+top: 35%;
+left: 5%;
+}
+#piccadillyLineStation14 {
+top: 35%;
+left: 20%;
+}
+#piccadillyLineStation15 {
+top: 35%;
+left: 35%;
+}
+#piccadillyLineStation16 {
+top: 35%;
+left: 50%;
+}
+#piccadillyLineStation17 {
+top: 35%;
+left: 65%;
+}
+#piccadillyLineStation18 {
+top: 35%;
+left: 80%;
+}
+#piccadillyLineStation19 {
+top: 41%;
+left: 5%;
+}
+#piccadillyLineStation20 {
+top: 41%;
+left: 20%;
+}
+#piccadillyLineStation21 {
+top: 41%;
+left: 35%;
+}
+#piccadillyLineStation22 {
+top: 41%;
+left: 50%;
+}
+#piccadillyLineStation23 {
+top: 41%;
+left: 65%;
+}
+#piccadillyLineStation24 {
+top: 41%;
+left: 80%;
+}
+#piccadillyLineStation25 {
+top: 47%;
+left: 5%;
+}
+#piccadillyLineStation26 {
+top: 47%;
+left: 20%;
+}
+#piccadillyLineStation27 {
+top: 47%;
+left: 35%;
+}
+#piccadillyLineStation28 {
+top: 47%;
+left: 50%;
+}
+#piccadillyLineStation29 {
+top: 47%;
+left: 65%;
+}
+#piccadillyLineStation30 {
+top: 47%;
+left: 80%;
+}
+#piccadillyLineStation31 {
+top: 53%;
+left: 5%;
+}
+#piccadillyLineStation32 {
+top: 53%;
+left: 20%;
+}
+#piccadillyLineStation33 {
+top: 53%;
+left: 35%;
+}
+#piccadillyLineStation34 {
+top: 53%;
+left: 50%;
+}
+#piccadillyLineStation35 {
+top: 53%;
+left: 65%;
+}
+#piccadillyLineStation36 {
+top: 53%;
+left: 80%;
+}
+#piccadillyLineStation37 {
+top: 59%;
+left: 5%;
+}
+#piccadillyLineStation38 {
+top: 59%;
+left: 20%;
+}
+#piccadillyLineStation39 {
+top: 59%;
+left: 35%;
+}
+#piccadillyLineStation40 {
+top: 59%;
+left: 50%;
+}
+#piccadillyLineStation41 {
+top: 59%;
+left: 65%;
+}
+#piccadillyLineStation42 {
+top: 59%;
+left: 80%;
+}
+#piccadillyLineStation43 {
+top: 65%;
+left: 5%;
+}
+#piccadillyLineStation44 {
+top: 65%;
+left: 20%;
+}
+#piccadillyLineStation45 {
+top: 65%;
+left: 35%;
+}
+#piccadillyLineStation46 {
+top: 65%;
+left: 50%;
+}
+#piccadillyLineStation47 {
+top: 65%;
+left: 65%;
+}
+#piccadillyLineStation48 {
+top: 65%;
+left: 80%;
+}
+#piccadillyLineStation49 {
+top: 71.1%;
+left: 5%;
+}
+#piccadillyLineStation50 {
+top: 71.1%;
+left: 20%;
+}
+#piccadillyLineStation51 {
+top: 71.1%;
+left: 35%;
+}
+#piccadillyLineStation52 {
+top: 71.1%;
+left: 50%;
+}
+#piccadillyLineStation53 {
+top: 71.1%;
+left: 65%;
+width: 14.95%;
+}
+#exitLink1 {
+top: 84%;
+left: 42%;
+}
+@media only screen and (max-width: 1366px) {
+#piccadillyLineStation49 {
+top: 71.15%;
+}
+#piccadillyLineStation50 {
+top: 71.15%;
+}
+#piccadillyLineStation51 {
+top: 71.15%;
+}
+#piccadillyLineStation52 {
+top: 71.15%;
+}
+#piccadillyLineStation53 {
+top: 71.15%;
+}
+}
+@media only screen and (max-width: 1024px) {
+#piccadillyLineStation53 {
+width: 14.9%;
+}
+}
+@media only screen and (max-width: 800px) {
+#piccadillyLineStation49 {
+top: 71.2%;
+}
+#piccadillyLineStation50 {
+top: 71.2%;
+}
+#piccadillyLineStation51 {
+top: 71.2%;
+}
+#piccadillyLineStation52 {
+top: 71.2%;
+}
+#piccadillyLineStation53 {
+top: 71.2%;
+}
+}
