@@ -1,0 +1,68 @@
+.heading {
+background: blue;
+color: white;
+}
+#londonUndergroundIntro {
+position: absolute;
+left: 5%;
+width: 90%;
+top: 15%;
+font-size: 150%;
+font-weight: bold;
+}
+#bakerlooLineLink {
+top: 40%;
+}
+#centralLineLink {
+top: 50%;
+}
+#circleLineLink {
+top: 60%;
+}
+#districtLineLink {
+top: 70%;
+}
+#hsmithLineLink {
+top: 80%;
+}
+#jubileeLineLink {
+top: 90%;
+}
+#metropolitanLineLink {
+top: 100%;
+}
+#northernLineLink {
+top: 110%;
+}
+#piccadillyLineLink {
+top: 120%;
+}
+#victoriaLineLink {
+top: 130%;
+}
+#wlooLineLink {
+top: 140%;
+}
+#exitLink1 {
+top: 155%;
+left: 42.5%;
+}
+@media only screen and (max-width: 1600px) {
+#londonUndergroundIntro {
+font-size: 140%;
+}
+@media only screen and (max-width: 1366px) {
+#londonUndergroundIntro {
+top: 18%;
+font-size: 120%;
+}
+@media only screen and (max-width: 1152px) {
+#londonUndergroundIntro {
+font-size: 100%;
+}
+@media only screen and (max-width: 1024px) {
+#londonUndergroundIntro {
+top: 21%;
+font-size: 70%;
+}
+}
