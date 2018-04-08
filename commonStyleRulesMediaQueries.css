@@ -1,0 +1,173 @@
+@media only screen and (max-width: 1680px) {
+.interchange {
+border: 0.4em solid black; 
+}
+.stationLinks {
+font-size: 100%;
+}
+}
+@media only screen and (max-width: 1600px) {
+.line {
+height: 1.5%;
+}
+.lineEnd {
+height: 4.5%;
+width: 0.75%;
+}
+.horizLineEnd {
+height: 1.4%;
+width: 3%;
+}
+.interchange {
+border: 0.25em solid black;    
+height: 3%;
+width: 1.5%;
+top: 61.7%;
+}
+.nonInterchange {
+height: 1.5%;
+width: 0.75%;
+top: 61.7%;
+}
+.sideNonInterchange {
+height: 1.5%;
+width: 1%;
+}
+.stnNames {
+font-size: 120%;
+}
+#lineName {
+font-weight: normal;
+font-size: 90%;
+}
+.bigLink {
+font-size: 160%;
+}
+@media only screen and (max-width: 1440px) {
+.stationLinks {
+font-size: 80%;
+}
+}
+@media only screen and (max-width: 1366px) {
+.heading {
+font-size: 18px;
+}
+.mainRouteStnsThreeLines {
+top: 48%;
+}
+.mainRouteStnsTwoLines {
+top: 51%;
+}
+.mainRouteStnsOneLine {
+top: 54%;
+}
+#lineName {
+font-size: 80%;
+}
+.bigLink {
+font-size: 140%;
+}
+}
+@media only screen and (max-width: 1280px) {
+.stationLinks {
+font-size: 70%;
+}
+}
+@media only screen and (max-width: 1152px) {
+.line {
+height: 1%;
+}
+.lineEnd {
+height: 3%;
+width: 0.5%;
+}
+.horizLineEnd {
+height: 1.1%;
+width: 2%;
+}
+.interchange {
+border: 0.2em solid black;    
+height: 1.8%;
+width: 1%;
+top: 62.25%;
+}
+.mainRouteStnsThreeLines {
+top: 51.5%;
+}
+.mainRouteStnsTwoLines {
+top: 54%;
+}
+.mainRouteStnsOneLine {
+top: 57%;
+}
+.nonInterchange {
+height: 1%;
+width: 0.5%;
+top: 62.25%;
+}
+.sideNonInterchange {
+height: 1%;
+width: 0.7%;
+}
+.stnNames {
+font-size: 100%;
+}
+#lineName {
+font-size: 70%;
+}
+.bigLink {
+font-size: 120%;
+}
+.stationLinks {
+font-size: 60%;
+}
+}
+@media only screen and (max-width: 1024px) {
+.interchange {
+top: 62.1%;
+}
+.nonInterchange {
+top: 62.1%;
+}
+#lineName {
+font-size: 55%;
+}
+.bigLink {
+font-size: 100%;
+}
+.stationLinks {
+font-size: 40%;
+}
+.mainRouteStnsThreeLines {
+top: 50%;
+}
+.mainRouteStnsTwoLines {
+top: 53%;
+}
+.mainRouteStnsOneLine {
+top: 56%;
+}
+}
+@media only screen and (max-width: 800px) {
+.heading {
+font-size: 14px;
+}
+.stnNames {
+font-size: 80%;
+}
+#lineName {
+font-size: 45%;
+}
+.interchange {
+top: 62%;
+}
+.mainRouteStnsThreeLines {
+top: 49.5%;
+}
+.mainRouteStnsTwoLines {
+top: 52.5%;
+}
+.mainRouteStnsOneLine {
+top: 55.5%;
+}
+}
