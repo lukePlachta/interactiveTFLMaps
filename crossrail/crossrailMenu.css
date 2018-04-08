@@ -1,0 +1,202 @@
+.heading {
+background: purple;
+color: white;
+}
+.stationLinks {
+background: purple;
+color: white;
+}
+#crossrailStation1 {
+top: 26%;
+left: 12.5%;
+}
+#crossrailStation2 {
+top: 26%;
+left: 27.5%;
+}
+#crossrailStation3 {
+top: 26%;
+left: 42.5%;
+}
+#crossrailStation4 {
+top: 26%;
+left: 57.5%;
+}
+#crossrailStation5 {
+top: 26%;
+left: 72.5%;
+}
+#crossrailStation6 {
+top: 32%;
+left: 12.5%;
+}
+#crossrailStation7 {
+top: 32%;
+left: 27.5%;
+}
+#crossrailStation8 {
+top: 32%;
+left: 42.5%;
+}
+#crossrailStation9 {
+top: 32%;
+left: 57.5%;
+}
+#crossrailStation10 {
+top: 32%;
+left: 72.5%;
+}
+#crossrailStation11 {
+top: 38%;
+left: 12.5%;
+}
+#crossrailStation12 {
+top: 38%;
+left: 27.5%;
+}
+#crossrailStation13 {
+top: 38%;
+left: 42.5%;
+}
+#crossrailStation14 {
+top: 38%;
+left: 57.5%;
+}
+#crossrailStation15 {
+top: 38%;
+left: 72.5%;
+}
+#crossrailStation16 {
+top: 44%;
+left: 12.5%;
+}
+#crossrailStation17 {
+top: 44%;
+left: 27.5%;
+}
+#crossrailStation18 {
+top: 44%;
+left: 42.5%;
+}
+#crossrailStation19 {
+top: 44%;
+left: 57.5%;
+}
+#crossrailStation20 {
+top: 44%;
+left: 72.5%;
+}
+#crossrailStation21 {
+top: 50%;
+left: 12.5%;
+}
+#crossrailStation22 {
+top: 50%;
+left: 27.5%;
+}
+#crossrailStation23 {
+top: 50%;
+left: 42.5%;
+}
+#crossrailStation24 {
+top: 50%;
+left: 57.5%;
+}
+#crossrailStation25 {
+top: 50%;
+left: 72.5%;
+}
+#crossrailStation26 {
+top: 56%;
+left: 12.5%;
+}
+#crossrailStation27 {
+top: 56%;
+left: 27.5%;
+}
+#crossrailStation28 {
+top: 56%;
+left: 42.5%;
+}
+#crossrailStation29 {
+top: 56%;
+left: 57.5%;
+}
+#crossrailStation30 {
+top: 56%;
+left: 72.5%;
+}
+#crossrailStation31 {
+top: 62%;
+left: 12.5%;
+}
+#crossrailStation32 {
+top: 62%;
+left: 27.5%;
+}
+#crossrailStation33 {
+top: 62%;
+left: 42.5%;
+}
+#crossrailStation34 {
+top: 62%;
+left: 57.5%;
+}
+#crossrailStation35 {
+top: 62%;
+left: 72.5%;
+}
+#crossrailStation36 {
+top: 68.05%;
+left: 12.5%;
+}
+#crossrailStation37 {
+top: 68.05%;
+left: 27.5%;
+}
+#crossrailStation38 {
+top: 68.05%;
+left: 42.5%;
+}
+#crossrailStation39 {
+top: 68.05%;
+left: 57.5%;
+width: 14.95%;
+}
+#exitLink1 {
+top: 85%;
+left: 42%;
+}
+@media only screen and (max-width: 1680px) {
+#crossrailStation36 {
+top: 68.1%;
+}
+#crossrailStation37 {
+top: 68.1%;
+}
+#crossrailStation38 {
+top: 68.1%;
+}
+#crossrailStation39 {
+top: 68.1%;
+}
+@media only screen and (max-width: 1366px) {
+#crossrailStation39 {
+width: 14.9%;
+}
+}
+@media only screen and (max-width: 800px) {
+#crossrailStation36 {
+top: 68.2%;
+}
+#crossrailStation37 {
+top: 68.2%;
+}
+#crossrailStation38 {
+top: 68.2%;
+}
+#crossrailStation39 {
+top: 68.2%;
+}
+}
+}
