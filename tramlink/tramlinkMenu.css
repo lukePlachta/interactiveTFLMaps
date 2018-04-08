@@ -1,0 +1,202 @@
+.heading {
+background: limegreen;
+color: black;
+}
+.stationLinks {
+background: limegreen;
+color: black;
+}
+#tramlinkStation1 {
+top: 26%;
+left: 12.5%;
+}
+#tramlinkStation2 {
+top: 26%;
+left: 27.5%;
+}
+#tramlinkStation3 {
+top: 26%;
+left: 42.5%;
+}
+#tramlinkStation4 {
+top: 26%;
+left: 57.5%;
+}
+#tramlinkStation5 {
+top: 26%;
+left: 72.5%;
+}
+#tramlinkStation6 {
+top: 32%;
+left: 12.5%;
+}
+#tramlinkStation7 {
+top: 32%;
+left: 27.5%;
+}
+#tramlinkStation8 {
+top: 32%;
+left: 42.5%;
+}
+#tramlinkStation9 {
+top: 32%;
+left: 57.5%;
+}
+#tramlinkStation10 {
+top: 32%;
+left: 72.5%;
+}
+#tramlinkStation11 {
+top: 38%;
+left: 12.5%;
+}
+#tramlinkStation12 {
+top: 38%;
+left: 27.5%;
+}
+#tramlinkStation13 {
+top: 38%;
+left: 42.5%;
+}
+#tramlinkStation14 {
+top: 38%;
+left: 57.5%;
+}
+#tramlinkStation15 {
+top: 38%;
+left: 72.5%;
+}
+#tramlinkStation16 {
+top: 44%;
+left: 12.5%;
+}
+#tramlinkStation17 {
+top: 44%;
+left: 27.5%;
+}
+#tramlinkStation18 {
+top: 44%;
+left: 42.5%;
+}
+#tramlinkStation19 {
+top: 44%;
+left: 57.5%;
+}
+#tramlinkStation20 {
+top: 44%;
+left: 72.5%;
+}
+#tramlinkStation21 {
+top: 50%;
+left: 12.5%;
+}
+#tramlinkStation22 {
+top: 50%;
+left: 27.5%;
+}
+#tramlinkStation23 {
+top: 50%;
+left: 42.5%;
+}
+#tramlinkStation24 {
+top: 50%;
+left: 57.5%;
+}
+#tramlinkStation25 {
+top: 50%;
+left: 72.5%;
+}
+#tramlinkStation26 {
+top: 56%;
+left: 12.5%;
+}
+#tramlinkStation27 {
+top: 56%;
+left: 27.5%;
+}
+#tramlinkStation28 {
+top: 56%;
+left: 42.5%;
+}
+#tramlinkStation29 {
+top: 56%;
+left: 57.5%;
+}
+#tramlinkStation30 {
+top: 56%;
+left: 72.5%;
+}
+#tramlinkStation31 {
+top: 62%;
+left: 12.5%;
+}
+#tramlinkStation32 {
+top: 62%;
+left: 27.5%;
+}
+#tramlinkStation33 {
+top: 62%;
+left: 42.5%;
+}
+#tramlinkStation34 {
+top: 62%;
+left: 57.5%;
+}
+#tramlinkStation35 {
+top: 62%;
+left: 72.5%;
+}
+#tramlinkStation36 {
+top: 68.05%;
+left: 12.5%;
+}
+#tramlinkStation37 {
+top: 68.05%;
+left: 27.5%;
+}
+#tramlinkStation38 {
+top: 68.05%;
+left: 42.5%;
+}
+#tramlinkStation39 {
+top: 68.05%;
+left: 57.5%;
+width: 14.95%;
+}
+#exitLink1 {
+top: 85%;
+left: 42%;
+}
+@media only screen and (max-width: 1680px) {
+#tramlinkStation36 {
+top: 68.1%;
+}
+#tramlinkStation37 {
+top: 68.1%;
+}
+#tramlinkStation38 {
+top: 68.1%;
+}
+#tramlinkStation39 {
+top: 68.1%;
+}
+@media only screen and (max-width: 1366px) {
+#tramlinkStation39 {
+width: 14.9%;
+}
+}
+@media only screen and (max-width: 800px) {
+#tramlinkStation36 {
+top: 68.2%;
+}
+#tramlinkStation37 {
+top: 68.2%;
+}
+#tramlinkStation38 {
+top: 68.2%;
+}
+#tramlinkStation39 {
+top: 68.2%;
+}
+}
+}
