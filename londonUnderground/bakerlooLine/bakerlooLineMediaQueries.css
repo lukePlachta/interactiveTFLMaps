@@ -1,0 +1,895 @@
+@media only screen and (max-width: 1680px) {
+#nrLogo1 {
+left: 4.6%;
+}
+#stn1Name {
+left: 1.9%;
+}
+#stn2Name {
+left: 13.1%;
+}
+#stn3Name {
+left: 23.1%;
+}
+#stn4Name {
+left: 32.2%;
+}
+#nrLogo2 {
+left: 45.1%;
+}
+#stn5Name {
+left: 43%;
+}
+#stn6Name {
+left: 51.3%;
+}
+#stn7Name {
+left: 61.8%;
+}
+#stn8Name {
+left: 72.9%;
+}
+#stn9Name {
+left: 83.1%;
+}
+#stn10Name {
+left: 93.8%;
+}
+#stn11Name {
+left: 103.4%;
+}
+#stn12Name {
+left: 112.6%;
+}
+#nrLogo3 {
+left: 125.1%;
+}
+#stn13Name {
+left: 122.6%;
+}
+#stn14Name {
+left: 132.5%;
+}
+#nrLogo4 {
+left: 145.1%;
+}
+#stn15Name {
+left: 142.3%;
+}
+#stn16Name {
+left: 154.3%;
+}
+#stn17Name {
+left: 162.7%;
+}
+#stn18Name {
+left: 174.1%;
+}
+#stn19Name {
+left: 183.2%;
+}
+#nrLogo5 {
+left: 195.1%;
+}
+#stn20Name {
+left: 193.7%;
+}
+#nrLogo6 {
+left: 205.1%;
+}
+#stn21Name {
+left: 201.9%;
+}
+#nrLogo7 {
+left: 215.1%;
+}
+#stn22Name {
+left: 213.2%;
+}
+#stn23Name {
+left: 222.3%;
+}
+#nrLogo8 {
+left: 235.1%;
+}
+#stn24Name {
+left: 233.3%;
+}
+}
+@media only screen and (max-width: 1600px) {
+#nrLogo1 {
+left: 4.1%;
+}
+#stn1Name {
+left: 2.1%;
+}
+#londonOverground1 {
+top: 67%;
+left: 1.3%;
+}
+#stn2Name {
+left: 13.4%;
+}
+#stn3Name {
+left: 23.3%;
+}
+#stn4Name {
+left: 32.6%;
+}
+#nrLogo2 {
+left: 44.6%;
+}
+#stn5Name {
+left: 43.2%;
+}
+#stn6Name {
+left: 51.7%;
+}
+#stn7Name {
+left: 62.2%;
+}
+#stn8Name {
+left: 73.1%;
+}
+#londonOverground2 {
+top: 67%;
+left: 71.8%;
+}
+#stn9Name {
+left: 83.4%;
+}
+#londonOverground3 {
+top: 67%;
+left: 91.8%;
+}
+#stn11Name {
+left: 103.6%;
+}
+#stn12Name {
+left: 112.9%;
+}
+#nrLogo3 {
+left: 124.6%;
+}
+#stn13Name {
+left: 122.8%;
+}
+#circle1 {
+top: 67%;
+left: 122.3%;
+}
+#crossrail1 {
+top: 70%;
+left: 121.8%;
+}
+#district1 {
+top: 79%;
+left: 122.3%;
+}
+#hsmith1 {
+top: 82%;
+left: 122.3%;
+}
+#stn14Name {
+left: 132.9%;
+}
+#nrLogo4 {
+left: 144.6%;
+}
+#stn15Name {
+left: 142.7%;
+}
+#circle2 {
+top: 67%;
+left: 152.3%;
+}
+#hsmith2 {
+top: 70%;
+left: 152.3%;
+}
+#jubilee1 {
+top: 76%;
+left: 152.3%;
+}
+#metropolitan1 {
+top: 79%;
+left: 152.3%;
+}
+#stn17Name {
+left: 163%;
+}
+#central1 {
+top: 67%;
+left: 172.3%;
+}
+#victoria1 {
+top: 70%;
+left: 172.3%
+}
+#stn19Name {
+left: 183.3%;
+}
+#piccadilly1 {
+top: 67%;
+left: 182.3%;
+}
+#nrLogo5 {
+left: 194.6%;
+}
+#northern1 {
+top: 67%;
+left: 192.3%;
+}
+#nrLogo6 {
+left: 204.6%;
+}
+#stn21Name {
+left: 202.3%;
+}
+#circle3 {
+top: 67%;
+left: 202.3%;
+}
+#district2 {
+top: 70%;
+left: 202.3%;
+}
+#nrLogo7 {
+left: 214.6%;
+}
+#stn22Name {
+left: 213.4%;
+}
+#jubilee2 {
+top: 67%;
+left: 212.3%;
+}
+#northern2 {
+top: 70%;
+left: 212.3%;
+}
+#wloo1 {
+top: 73%;
+left: 212.3%;
+}
+#stn23Name {
+left: 222.7%;
+}
+#nrLogo8 {
+left: 234.6%;
+}
+#northern3 {
+top: 67%;
+left: 232.3%;
+}
+}
+@media only screen and (max-width: 1440px) {
+#nrLogo1 {
+left: 4%;
+}
+#stn1Name {
+left: 1.9%;
+}
+#stn2Name {
+left: 13.3%;
+}
+#stn3Name {
+left: 23.2%;
+}
+#stn4Name {
+left: 32.3%;
+}
+#nrLogo2 {
+left: 44.5%;
+}
+#stn5Name {
+left: 42.9%;
+}
+#stn6Name {
+left: 51.5%;
+}
+#stn7Name {
+left: 62%;
+}
+#stn8Name {
+left: 72.8%;
+}
+#stn9Name {
+left: 83.2%;
+}
+#stn10Name {
+left: 93.6%;
+}
+#stn11Name {
+left: 103.4%;
+}
+#stn12Name {
+left: 112.6%;
+}
+#nrLogo3 {
+left: 124.5%;
+}
+#stn13Name {
+left: 122.5%;
+}
+#stn14Name {
+left: 132.6%;
+}
+#nrLogo4 {
+left: 144.5%;
+}
+#stn15Name {
+left: 142.3%;
+}
+#stn16Name {
+left: 154.1%;
+}
+#stn17Name {
+left: 162.8%;
+}
+#stn18Name {
+left: 173.9%;
+}
+#stn19Name {
+left: 183.1%;
+}
+#nrLogo5 {
+left: 194.5%;
+}
+#stn20Name {
+left: 193.5%;
+}
+#nrLogo6 {
+left: 204.5%;
+}
+#stn21Name {
+left: 202%;
+}
+#nrLogo7 {
+left: 214.5%;
+}
+#stn22Name {
+left: 213.1%;
+}
+#stn23Name {
+left: 222.4%;
+}
+#nrLogo8 {
+left: 234.5%;
+}
+#stn24Name {
+left: 233.2%;
+}
+}
+@media only screen and (max-width: 1366px) {
+#nrLogo1 {
+left: 3.9%;
+}
+#stn1Name {
+left: 1.8%;
+}
+#stn2Name {
+left: 13.2%;
+}
+#stn3Name {
+left: 23.1%;
+}
+#stn4Name {
+left: 32.1%;
+}
+#nrLogo2 {
+left: 44.4%;
+}
+#stn5Name {
+left: 42.7%;
+}
+#stn6Name {
+left: 51.3%;
+}
+#stn7Name {
+left: 61.8%;
+}
+#stn8Name {
+left: 72.7%;
+}
+#stn9Name {
+left: 83.1%;
+}
+#stn10Name {
+left: 93.5%;
+}
+#stn11Name {
+left: 103.3%;
+}
+#stn12Name {
+left: 112.5%;
+}
+#nrLogo3 {
+left: 124.4%;
+}
+#stn13Name {
+left: 122.4%;
+}
+#stn14Name {
+left: 132.4%;
+}
+#nrLogo4 {
+left: 144.4%;
+}
+#stn15Name {
+left: 142.2%;
+}
+#stn16Name {
+left: 154%;
+}
+#circle2 {
+top: 66%;
+left: 152%;
+}
+#hsmith2 {
+top: 69%;
+left: 152%;
+}
+#jubilee1 {
+top: 75%;
+left: 152%;
+}
+#metropolitan1 {
+top: 78%;
+left: 152%;
+}
+#stn17Name {
+left: 162.7%;
+}
+#stn18Name {
+left: 173.8%;
+}
+#stn19Name {
+left: 183%;
+}
+#nrLogo5 {
+left: 194.4%;
+}
+#stn20Name {
+left: 193.4%;
+}
+#nrLogo6 {
+left: 204.4%;
+}
+#stn21Name {
+left: 201.7%;
+}
+#nrLogo7 {
+left: 214.4%;
+}
+#stn22Name {
+left: 212.9%;
+}
+#stn23Name {
+left: 222.3%;
+}
+#nrLogo8 {
+left: 234.4%;
+}
+#stn24Name {
+left: 232.9%;
+}
+}
+@media only screen and (max-width: 1280px) {
+#nrLogo1 {
+left: 3.8%;
+}
+#stn1Name {
+left: 1.4%;
+}
+#stn2Name {
+left: 13%;
+}
+#stn3Name {
+left: 22.9%;
+}
+#stn4Name {
+left: 31.8%;
+}
+#nrLogo2 {
+left: 44.3%;
+}
+#stn5Name {
+left: 42.5%;
+}
+#stn6Name {
+left: 51.1%;
+}
+#stn7Name {
+left: 61.6%;
+}
+#stn8Name {
+left: 72.4%;
+}
+#stn9Name {
+left: 82.9%;
+}
+#stn10Name {
+left: 93.3%;
+}
+#stn11Name {
+left: 103.2%;
+}
+#stn12Name {
+left: 112.3%;
+}
+#nrLogo3 {
+left: 124.3%;
+}
+#stn13Name {
+left: 122.1%;
+}
+#stn14Name {
+left: 132.2%;
+}
+#nrLogo4 {
+left: 144.3%;
+}
+#stn15Name {
+left: 141.9%;
+}
+#stn16Name {
+left: 153.9%;
+}
+#stn17Name {
+left: 162.5%;
+}
+#stn18Name {
+left: 173.6%;
+}
+#stn19Name {
+left: 182.7%;
+}
+#nrLogo5 {
+left: 194.3%;
+}
+#stn20Name {
+left: 193.2%;
+}
+#nrLogo6 {
+left: 204.3%;
+}
+#stn21Name {
+left: 201.3%;
+}
+#nrLogo7 {
+left: 214.3%;
+}
+#stn22Name {
+left: 212.7%;
+}
+#stn23Name {
+left: 222.2%;
+}
+#nrLogo8 {
+left: 234.3%;
+}
+#stn24Name {
+left: 232.7%;
+}
+#exitLink1 {
+top: 23%;
+}
+#exitLink2 {
+top: 23%;
+}
+#exitLink3 {
+top: 23%;
+}
+}
+@media only screen and (max-width: 1152px) {
+#nrLogo1 {
+left: 3.4%;
+}
+#stn1Name {
+left: 1.3%;
+}
+#londonOverground1 {
+top: 66%;
+left: 1%;
+}
+#stn4Name {
+left: 32%;
+}
+#nrLogo2 {
+left: 43.9%;
+}
+#stn6Name {
+left: 51.2%;
+}
+#stn7Name {
+left: 61.7%;
+}
+#londonOverground2 {
+top: 66%;
+left: 71.5%;
+}
+#stn9Name {
+left: 83%;
+}
+#stn10Name {
+left: 93.2%;
+}
+#londonOverground3 {
+top: 66%;
+left: 91.5%;
+}
+#stn12Name {
+left: 112.4%;
+}
+#nrLogo3 {
+left: 123.9%;
+}
+#stn13Name {
+left: 122%;
+}
+#circle1 {
+top: 66%;
+left: 122%;
+}
+#crossrail1 {
+top: 69%;
+left: 121.5%;
+}
+#district1 {
+top: 78%;
+left: 122%;
+}
+#hsmith1 {
+top: 81%;
+left: 122%;
+}
+#stn14Name {
+left: 132.4%;
+}
+#nrLogo4 {
+left: 143.9%;
+}
+#stn16Name {
+left: 153.8%;
+}
+#stn17Name {
+left: 162.6%;
+}
+#central1 {
+top: 66%;
+left: 172%;
+}
+#victoria1 {
+top: 69%;
+left: 172%
+}
+#piccadilly1 {
+top: 66%;
+left: 182%;
+}
+#nrLogo5 {
+left: 193.9%;
+}
+#northern1 {
+top: 66%;
+left: 192%;
+}
+#nrLogo6 {
+left: 203.9%;
+}
+#stn21Name {
+left: 201.4%;
+}
+#circle3 {
+top: 66%;
+left: 202%;
+}
+#district2 {
+top: 69%;
+left: 202%;
+}
+#nrLogo7 {
+left: 213.9%;
+}
+#jubilee2 {
+top: 66%;
+left: 212%;
+}
+#northern2 {
+top: 69%;
+left: 212%;
+}
+#wloo1 {
+top: 72%;
+left: 212%;
+}
+#nrLogo8 {
+left: 233.9%;
+}
+#northern3 {
+top: 66%;
+left: 232%;
+}
+}
+@media only screen and (max-width: 1024px) {
+#nrLogo1 {
+left: 3.1%;
+}
+#stn1Name {
+left: 1%;
+}
+#stn2Name {
+left: 12.8%;
+}
+#stn3Name {
+left: 22.7%;
+}
+#stn4Name {
+left: 31.7%;
+}
+#nrLogo2 {
+left: 43.6%;
+}
+#stn5Name {
+left: 42.2%;
+}
+#stn6Name {
+left: 50.8%;
+}
+#stn7Name {
+left: 61.4%;
+}
+#stn8Name {
+left: 72%;
+}
+#stn9Name {
+left: 82.8%;
+}
+#stn10Name {
+left: 93%;
+}
+#stn11Name {
+left: 103%;
+}
+#stn12Name {
+left: 112.1%;
+}
+#nrLogo3 {
+left: 123.6%;
+}
+#stn13Name {
+left: 121.7%;
+}
+#stn14Name {
+left: 132.1%;
+}
+#nrLogo4 {
+left: 143.6%;
+}
+#stn15Name {
+left: 141.6%;
+}
+#stn16Name {
+left: 153.6%;
+}
+#stn17Name {
+left: 162.3%;
+}
+#stn18Name {
+left: 173.4%;
+}
+#stn19Name {
+left: 182.4%;
+}
+#nrLogo5 {
+left: 193.6%;
+}
+#stn20Name {
+left: 193%;
+}
+#nrLogo6 {
+left: 203.6%;
+}
+#stn21Name {
+left: 200.9%;
+}
+#nrLogo7 {
+left: 213.6%;
+}
+#stn22Name {
+left: 212.5%;
+}
+#stn23Name {
+left: 221.9%;
+}
+#nrLogo8 {
+left: 233.6%;
+}
+#stn24Name {
+left: 232.3%;
+}
+#exitLink1 {
+top: 25%;
+}
+#exitLink2 {
+top: 25%;
+}
+#exitLink3 {
+top: 25%;
+}
+}
+@media only screen and (max-width: 800px) {
+#nrLogo1 {
+left: 2.5%;
+}
+#stn1Name {
+left: 0.8%;
+}
+#stn2Name {
+left: 12.7%;
+}
+#stn3Name {
+left: 22.6%;
+}
+#stn4Name {
+left: 31.6%;
+}
+#nrLogo2 {
+left: 43%;
+}
+#stn5Name {
+left: 42%;
+}
+#stn6Name {
+left: 50.6%;
+}
+#stn7Name {
+left: 61.2%;
+}
+#stn8Name {
+left: 72.1%;
+}
+#stn12Name {
+left: 112%;
+}
+#nrLogo3 {
+left: 123%;
+}
+#stn13Name {
+left: 121.6%;
+}
+#stn14Name {
+left: 132%;
+}
+#nrLogo4 {
+left: 143%;
+}
+#stn15Name {
+left: 141.5%;
+}
+#stn17Name {
+left: 162.2%;
+}
+#nrLogo5 {
+left: 193%;
+}
+#nrLogo6 {
+left: 203%;
+}
+#stn21Name {
+left: 200.7%;
+}
+#nrLogo7 {
+left: 213%;
+}
+#stn22Name {
+left: 212.4%;
+}
+#stn23Name {
+left: 221.8%;
+}
+#nrLogo8 {
+left: 233%;
+}
+}
