@@ -1,0 +1,134 @@
+.lineCurve {
+position: absolute;
+border: 1.2em solid black;
+-webkit-box-sizing: 50%;
+-moz-box-sizing: 50%;
+-khtml-border-radius: 50%;
+overflow: hidden;
+}
+#lineCurve1 {
+width: 105%;
+height: 10%; /* as the half of the width */
+border-top-right-radius: 100px;
+border-left: 0;
+border-bottom: 0;
+top: 35%;
+left: 5%;
+}
+#lineCurve2 {
+width: 10%;
+height: 10%; /* as the half of the width */
+border-top-left-radius: 100px;
+border-right: 0;
+border-bottom: 0;
+top: 35%;
+left: 50%;
+}
+#lineCurve3 {
+width: 10%;
+height: 10%; /* as the half of the width */
+border-bottom-right-radius: 100px;
+border-top: 0;
+border-left: 0;
+top: 46.5%;
+left: 40%;
+}
+#lineCurve4 {
+width: 35%;
+height: 10%; /* as the half of the width */
+border-bottom-left-radius: 100px;
+border-top: 0;
+border-right: 0;
+top: 45%;
+left: 110%;
+}
+#lineCurve5 {
+width: 10%;
+height: 10%; /* as the half of the width */
+border-top-left-radius: 100px;
+border-bottom: 0;
+border-right: 0;
+top: 55.1%;
+left: 110%;
+}
+#lineCurve6 {
+width: 90%;
+height: 10%; /* as the half of the width */
+border-bottom-right-radius: 100px;
+border-top: 0;
+border-left: 0;
+top: 65%;
+left: 20%;
+}
+#lineCurve7 {
+width: 5%;
+height: 10%; /* as the half of the width */
+border-bottom-right-radius: 100px;
+border-top: 0;
+border-left: 0;
+top: 45%;
+left: 145%;
+}
+#lineCurve8 {
+width: 5%;
+height: 10%; /* as the half of the width */
+border-top-right-radius: 100px;
+border-bottom: 0;
+border-left: 0;
+top: 55.1%;
+left: 145%;
+}
+#lineCurve9 {
+width: 84%;
+height: 10%; /* as the half of the width */
+border-top-left-radius: 100px;
+border-bottom: 0;
+border-right: 0;
+top: 35%;
+left: 150%;
+}
+#lineCurve10 {
+width: 10%;
+height: 10%; /* as the half of the width */
+border-top-right-radius: 100px;
+border-bottom: 0;
+border-left: 0;
+top: 35%;
+left: 235%;
+}
+#lineCurve11 {
+width: 84%;
+height: 10%; /* as the half of the width */
+border-bottom-left-radius: 100px;
+border-top: 0;
+border-right: 0;
+top: 65%;
+left: 150%;
+}
+#lineCurve12 {
+width: 10%;
+height: 10%; /* as the half of the width */
+border-bottom-right-radius: 100px;
+border-top: 0;
+border-left: 0;
+top: 65%;
+left: 235%;
+}
+#lineCurve13 {
+width: 9.5%;
+height: 10%; /* as the half of the width */
+border-bottom-left-radius: 100px;
+border-top: 0;
+border-right: 0;
+top: 45%;
+left: 245%;
+}
+#lineCurve14 {
+width: 120%;
+height: 10%; /* as the half of the width */
+border-top-left-radius: 100px;
+border-bottom: 0;
+border-right: 0;
+top: 55.1%;
+left: 245%;
+}
