@@ -1,0 +1,79 @@
+@media only screen and (max-width: 1680px) {
+
+}
+@media only screen and (max-width: 1600px) {
+.lineCurve {
+border: 0.75em solid red;
+}
+#lineCurve1 {
+height: 9%; /* as the half of the width */
+border-top-right-radius: 50px;
+}
+#lineCurve2 {
+border-bottom-left-radius: 50px;
+}
+#lineCurve3 {
+height: 9%; /* as the half of the width */
+border-top-left-radius: 50px;
+}
+#lineCurve4 {
+border-bottom-right-radius: 50px;
+}
+#lineCurve5 {
+top: 55%;
+}
+#lineCurve8 {
+top: 55%;
+}
+}
+@media only screen and (max-width: 1366px) {
+#lineCurve1 {
+width: 70.05%;
+}
+#lineCurve4 {
+width: 20.05%;
+}
+@media only screen and (max-width: 1280px) {
+#lineCurve1 {
+width: 70%;
+}
+#lineCurve4 {
+width: 20%;
+}
+}
+@media only screen and (max-width: 1152px) {
+.lineCurve {
+border: 0.5em solid red;
+}
+#lineCurve6 {
+border-bottom-left-radius: 25px;
+}
+#lineCurve7 {
+border-bottom-right-radius: 25px;
+}
+}
+@media only screen and (max-width: 1024px) {
+#lineCurve5 {
+border-top-right-radius: 25px;
+}
+#lineCurve8 {
+border-top-right-radius: 25px;
+}
+}
+@media only screen and (max-width: 800px) {
+.lineCurve {
+border: 0.3em solid red;
+}
+#lineCurve1 {
+border-top-right-radius: 25px;
+}
+#lineCurve2 {
+border-bottom-left-radius: 25px;
+}
+#lineCurve3 {
+border-top-left-radius: 25px;
+}
+#lineCurve4 {
+border-bottom-right-radius: 25px;
+}
+}
