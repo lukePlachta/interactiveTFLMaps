@@ -1,0 +1,203 @@
+.heading {
+background: #42f4d7;
+color: white;
+}
+.line {
+background-color: #42f4d7;
+width: 40%;
+left: 30%;
+}
+#nrLogo1 {
+left: 29.8%;
+}
+#interchange1 {
+left: 29.5%;
+}
+#stn1Name {
+left: 28.2%;
+}
+#bakerloo1 {
+top: 68%;
+left: 27.1%;
+}
+#jubilee1 {
+top: 71%;
+left: 27.1%;
+}
+#northern1 {
+top: 74%;
+left: 27.1%;
+}
+#interchange2 {
+left: 69.5%;
+}
+#stn2Name {
+left: 69.5%;
+}
+#central1 {
+top: 68%;
+left: 67.1%;
+}
+#circle1 {
+top: 71%;
+left: 67.1%;
+}
+#district1 {
+top: 74%;
+left: 67.1%;
+}
+#dlr1 {
+top: 77%;
+left: 66.6%;
+}
+#northern2 {
+top: 86%;
+left: 67.1%;
+}
+#exitLink1 {
+top: 20%;
+left: 3%;
+}
+@media only screen and (max-width: 1680px) {
+#nrLogo1 {
+left: 29.6%;
+}
+#stn1Name {
+left: 27.7%;
+}
+#stn2Name {
+left: 69.2%;
+}
+}
+@media only screen and (max-width: 1600px) {
+#nrLogo1 {
+left: 29.1%;
+}
+#stn1Name {
+left: 27.9%;
+}
+#bakerloo1 {
+top: 67%;
+left: 26.8%;
+}
+#jubilee1 {
+top: 70%;
+left: 26.8%;
+}
+#northern1 {
+top: 73%;
+left: 26.8%;
+}
+#stn2Name {
+left: 69.1%;
+}
+#central1 {
+top: 67%;
+left: 66.8%;
+}
+#circle1 {
+top: 70%;
+left: 66.8%;
+}
+#district1 {
+top: 73%;
+left: 66.8%;
+}
+#dlr1 {
+top: 76%;
+left: 66.3%;
+}
+#northern2 {
+top: 85%;
+left: 66.8%;
+}
+}
+@media only screen and (max-width: 1440px) {
+#nrLogo1 {
+top: 51%;
+left: 28.8%;
+}
+#stn1Name {
+left: 27.6%;
+}
+#stn2Name {
+left: 69%;
+}
+}
+@media only screen and (max-width: 1280px) {
+#stn1Name {
+left: 27.4%;
+}
+#stn2Name {
+left: 68.9%;
+}
+}
+@media only screen and (max-width: 1152px) {
+#nrLogo1 {
+left: 28.3%;
+}
+#stn1Name {
+left: 27.2%;
+}
+#bakerloo1 {
+top: 66%;
+left: 26.5%;
+}
+#jubilee1 {
+top: 69%;
+left: 26.5%;
+}
+#northern1 {
+top: 72%;
+left: 26.5%;
+}
+#stn2Name {
+left: 68.7%;
+}
+#central1 {
+top: 66%;
+left: 66.5%;
+}
+#circle1 {
+top: 69%;
+left: 66.5%;
+}
+#district1 {
+top: 72%;
+left: 66.5%;
+}
+#dlr1 {
+top: 75%;
+left: 66%;
+}
+#northern2 {
+top: 84%;
+left: 66.5%;
+}
+}
+@media only screen and (max-width: 1024px) {
+#nrLogo1 {
+left: 28%;
+}
+#stn1Name {
+left: 27%;
+}
+#stn2Name {
+left: 68.6%;
+}
+#exitLink1 {
+top: 25%;
+}
+}
+@media only screen and (max-width: 800px) {
+#nrLogo1 {
+top: 50%;
+left: 27.5%;
+}
+#stn1Name {
+left: 26.9%;
+}
+#stn2Name {
+left: 68.5%;
+}
+}
